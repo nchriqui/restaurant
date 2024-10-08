@@ -1,0 +1,13 @@
+﻿IdUnit;UnitEN;UnitFR;Quantity;SIUnit
+1;Cup;Tasse;240 mL;11
+2;Tablespoon;Cuillère à soupe;14 mL;11
+3;Teaspoon;Cuillère à café;4.5 mL;11
+4;Pinch;Pincée;1;10
+5;Ounce;Once;0.0284 kg;12
+6;Pound;Livre;0.454 kg;12
+7;Slice;Tranche;1;10
+8;Head;Tête;1;10
+9;Lb;Livre;0.454 kg;12
+10;Ingredient;Ingrédient;1;10
+11;mL;mL;1;11
+12;kg;kg;1;12

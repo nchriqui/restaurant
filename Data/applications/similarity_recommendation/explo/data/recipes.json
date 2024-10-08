@@ -1,0 +1,5 @@
+{"nom": "Spaghetti bolognaise", "type": "plat", "viande": "boeuf", "apport_calorique": 500, "epicee": false}
+{"nom": "Tarte aux pommes", "type": "dessert", "viande": "vegetarien", "apport_calorique": 300, "epicee": false}
+{"nom": "Poulet tandoori", "type": "plat", "viande": "poulet", "apport_calorique": 600, "epicee": true}
+{"nom": "Salade de quinoa", "type": "entree", "viande": "vegetarien", "apport_calorique": 400, "epicee": false}
+{"nom": "Saumon grille", "type": "plat", "viande": "poisson", "apport_calorique": 450, "epicee": false}

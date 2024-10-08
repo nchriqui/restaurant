@@ -1,0 +1,1034 @@
+﻿IdIngredient;IngredientNameEN;IngredientNameFR;IngredientSynonymEN;IngredientSynonymFR;CategoryEN;CategoryFR;ContituentIngredientsEN;ContituentIngredientsFR;IngredientPrice
+0;Egg;Œuf;egg;œuf;Meat;Viande;Egg;Œuf;0.54570298
+2;Bread;Pain;bread, bun;pain, brioche;Bakery;Boulangerie;Bread;Pain;1.940831474
+3;Rye Bread;Pain de seigle;bread-rye;pain-rye;Bakery;Boulangerie;Rye Bread;Pain de seigle;3.729416744
+4;Wheaten Bread;Pain de blé;bread-wheaten;pain-blé;Bakery;Boulangerie;Wheaten Bread;Pain de blé;1.365134726
+5;White Bread;Pain blanc;bread-white, baguette;pain-blanc, baguette;Bakery;Boulangerie;White Bread;Pain blanc;1.238557454
+6;Wholewheat Bread;Pain de blé entier;bread-whole-wheat;pain-entier-blé;Bakery;Boulangerie;Wholewheat Bread;Pain de blé entier;3.426623969
+7;Wort;Wort;wort;moût;Beverage;Boisson;Wort;Wort;1.159780094
+8;Arrack;Arrack;arrack, arak;arrack, arak;Beverage Alcoholic;Boisson alcoolisée;Arrack;Arrack;9.487537755
+9;Beer;Bière;beer, lager;bière, lager;Beverage Alcoholic;Boisson alcoolisée;Beer;Bière;8.634154237
+10;Bantu Beer;Bière bantoue;bantu-beer, kaffir-beer;bière bantoue, bière kaffir;Beverage Alcoholic;Boisson alcoolisée;Bantu Beer;Bière bantoue;6.091736877
+11;Brandy;Brandy;brandy;eau-de-vie;Beverage Alcoholic;Boisson alcoolisée;Brandy;Brandy;12.93885646
+12;Anise Brandy;Eau-de-vie d'anis;brandy-anise;brandy-anis;Beverage Alcoholic;Boisson alcoolisée;Anise Brandy;Eau-de-vie d'anis;14.39675826
+13;Apple Brandy;Brandy de pomme;brandy-apple;brandy-pomme;Beverage Alcoholic;Boisson alcoolisée;Apple Brandy;Brandy de pomme;10.42758562
+14;Armagnac Brandy;Brandy d'armagnac;armagnac-brandy;armagnac-brandy;Beverage Alcoholic;Boisson alcoolisée;Armagnac Brandy;Brandy d'armagnac;14.8702431
+15;Blackberry Brandy;Brandy de mûre;blackberry-brandy;brandy-mûre;Beverage Alcoholic;Boisson alcoolisée;Blackberry Brandy;Brandy de mûre;13.93741431
+16;Cherry Brandy;Brandy de cerise;brandy-cherry;brandy-cerise;Beverage Alcoholic;Boisson alcoolisée;Cherry Brandy;Brandy de cerise;14.02137184
+17;Cognac Brandy;Cognac Brandy;brandy-cognac;brandy-cognac;Beverage Alcoholic;Boisson alcoolisée;Cognac Brandy;Cognac Brandy;5.100863901
+18;Papaya Brandy;Brandy de papaye;brandy-papaya;brandy-papaye;Beverage Alcoholic;Boisson alcoolisée;Papaya Brandy;Brandy de papaye;4.974624448
+19;Pear Brandy;Poire Brandy;brandy-pear, palinka, poire williams, rakia;brandy-poire, palinka, poire williams, rakia;Beverage Alcoholic;Boisson alcoolisée;Pear Brandy;Poire Brandy;4.697851185
+20;Plum Brandy;Brandy de prune;brandy-plum, slivovitz, tuica, ljivovica, asliwowica, schlivowitz;brandy-prune, slivovitz, tuica, ljivovica, asliwowica, schlivowitz;Beverage Alcoholic;Boisson alcoolisée;Plum Brandy;Brandy de prune;7.108349829
+21;Raspberry Brandy;Brandy de framboise;raspberry-brandy;framboise-brandy;Beverage Alcoholic;Boisson alcoolisée;Raspberry Brandy;Brandy de framboise;11.71881464
+22;Weinbrand Brandy;Brandy Weinbrand;weinbrand-brandy;weinbrand-brandy;Beverage Alcoholic;Boisson alcoolisée;Weinbrand Brandy;Brandy Weinbrand;7.307797737
+23;Gin;Gin;gin;gin;Beverage Alcoholic;Boisson alcoolisée;Gin;Gin;10.22702297
+24;Rum;Rhum;rum;rhum;Beverage Alcoholic;Boisson alcoolisée;Rum;Rhum;5.171720132
+25;Whisky;Whisky;whisky, whiskey;whisky, whiskey;Beverage Alcoholic;Boisson alcoolisée;Whisky;Whisky;12.70448682
+26;Bourbon Whisky;Whisky Bourbon;bourbon-whisky, bourbon-whiskey;bourbon-whisky, bourbon-whiskey;Beverage Alcoholic;Boisson alcoolisée;Bourbon Whisky;Whisky Bourbon;13.61441929
+27;Canadian Whisky;Whisky canadien;canadian-whisky, canadian-whiskey;canadian-whisky, canadian-whiskey;Beverage Alcoholic;Boisson alcoolisée;Canadian Whisky;Whisky canadien;6.796815505
+28;Finnish Whisky;Whisky finlandais;finnish-whisky, finnish-whiskey;finnish-whisky, finnish-whiskey;Beverage Alcoholic;Boisson alcoolisée;Finnish Whisky;Whisky finlandais;14.21618931
+29;Japanese Whisky;Whisky japonais;japanese-whisky, japanese-whiskey;whisky japonais, whisky japonais;Beverage Alcoholic;Boisson alcoolisée;Japanese Whisky;Whisky japonais;13.92314867
+30;Malt Whisky;Whisky de malt;whisky-malt, whiskey-malt;whisky-malt, whisky-malt;Beverage Alcoholic;Boisson alcoolisée;Malt Whisky;Whisky de malt;6.710628359
+31;Scotch;Scotch;scotch;scotch;Beverage Alcoholic;Boisson alcoolisée;Scotch;Scotch;10.25123119
+32;Wine;Vin;wine;vin;Beverage Alcoholic;Boisson alcoolisée;Wine;Vin;5.274891187
+33;Bilberry Wine;Vin de myrtille;bilberry-wine;vin de myrtille;Beverage Alcoholic;Boisson alcoolisée;Bilberry Wine;Vin de myrtille;6.902067737
+34;Botrytized Wine;Vin botrytisé;botrytized-wine;vin botrytisé;Beverage Alcoholic;Boisson alcoolisée;Botrytized Wine;Vin botrytisé;9.963040312
+35;Champagne;Champagne;champagne;champagne;Beverage Alcoholic;Boisson alcoolisée;Champagne;Champagne;9.585412312
+36;Cider;Cidre;cider;cidre;Beverage Alcoholic;Boisson alcoolisée;Cider;Cidre;9.689819283
+37;Plum Wine;Vin de Prune;plum-wine;vin de prune;Beverage Alcoholic;Boisson alcoolisée;Plum Wine;Vin de Prune;12.02645103
+38;Port Wine;Vin de Porto;port-wine, vinho do porto;porto-wine, vinho do porto;Beverage Alcoholic;Boisson alcoolisée;Port Wine;Vin de Porto;10.14771214
+39;Red Wine;Vin rouge;wine-red;vin-rouge;Beverage Alcoholic;Boisson alcoolisée;Red Wine;Vin rouge;6.40682576
+40;Rose Wine;Vin rosé;rose-wine, rosada;rose-wine, rosada;Beverage Alcoholic;Boisson alcoolisée;Rose Wine;Vin rosé;10.73581778
+41;Sake;Sake;sake;saké;Beverage Alcoholic;Boisson alcoolisée;Sake;Sake;11.06261338
+42;Sherry;Sherry;sherry;sherry;Beverage Alcoholic;Boisson alcoolisée;Sherry;Sherry;13.11185754
+43;Sparkling Wine;Vin pétillant;sparkling-wine;vin mousseux;Beverage Alcoholic;Boisson alcoolisée;Sparkling Wine;Vin pétillant;8.821503658
+44;Strawberry Wine;Vin de fraise;strawberry-wine;vin de fraise;Beverage Alcoholic;Boisson alcoolisée;Strawberry Wine;Vin de fraise;12.73393161
+45;White Wine;Vin blanc;wine-white;vin-blanc;Beverage Alcoholic;Boisson alcoolisée;White Wine;Vin blanc;13.98898311
+46;Coffee;Café;coffee;café;Beverage;Boisson;Coffee;Café;1.089074254
+47;Mate;Mate;mate, yerba;maté, yerba;Beverage;Boisson;Mate;Mate;1.400508056
+48;Black Tea;Thé noir;tea-black;thé-noir;Beverage;Boisson;Black Tea;Thé noir;0.888600484
+49;Green Tea;Thé vert;tea-green;thé-vert;Beverage;Boisson;Green Tea;Thé vert;1.495045274
+50;Roibos Tea;Thé Roibos;tea-rooibos, tea-bush;thé-rooibos, thé-bush;Beverage;Boisson;Roibos Tea;Thé Roibos;1.82592166
+51;Barley;Orge;barley;orge;Cereal;Céréales;Barley;Orge;3.168881939
+52;Crispbread;Pain croustillant;crisp-bread;croustillant-pain;Cereal;Céréales;Crispbread;Pain croustillant;2.581868605
+53;Malt;Malt;malt;malt;Cereal;Céréales;Malt;Malt;1.626248351
+54;Oats;Avoine;oat;avoine;Cereal;Céréales;Oats;Avoine;3.575867056
+55;Rice;Riz;rice;riz;Cereal;Céréales;Rice;Riz;1.776159017
+56;Corn;Maïs;corn, corn-flour, corn-starch, maize-flour;maïs, maïs-farine, maïs-amidon, maïs-farine;Maize;Maïs;Corn;Maïs;1.933468247
+57;Corn Oil;Huile de maïs;corn oil;huile de maïs;Maize;Maïs;Corn Oil;Huile de maïs;1.660573054
+58;Popcorn;Popcorn;pop-corn;pop-maïs;Maize;Maïs;Popcorn;Popcorn;1.316065857
+59;Sweetcorn;Maïs doux;sweet-corn;sucré-maïs;Maize;Maïs;Sweetcorn;Maïs doux;1.694089612
+60;Butter;Beurre;butter;beurre;Dairy;Produits laitiers;Butter;Beurre;3.26474479
+61;Buttermilk;Babeurre;buttermilk;babeurre;Dairy;Produits laitiers;Buttermilk;Babeurre;3.417712569
+62;Cheese;Fromage;cheese;fromage;Dairy;Produits laitiers;Cheese;Fromage;1.419874318
+63;Blue Cheese;Fromage bleu;cheese-blue;fromage-bleu;Dairy;Produits laitiers;Blue Cheese;Fromage bleu;1.22890825
+64;Camembert Cheese;Fromage Camembert;cheese-camembert;fromage-camembert;Dairy;Produits laitiers;Camembert Cheese;Fromage Camembert;1.115845303
+65;Cheddar Cheese;Fromage Cheddar;cheese-cheddar;fromage-cheddar;Dairy;Produits laitiers;Cheddar Cheese;Fromage Cheddar;2.940243625
+66;Comte Cheese;Fromage Comte;cheese-comte;fromage-comte;Dairy;Produits laitiers;Comte Cheese;Fromage Comte;1.646962359
+67;Cottage Cheese;Fromage blanc;cheese-cottage;fromage-cottage;Dairy;Produits laitiers;Cottage Cheese;Fromage blanc;1.950957154
+68;Cream Cheese;Fromage à la crème;cheese-cream;fromage-crème;Dairy;Produits laitiers;Cream Cheese;Fromage à la crème;1.222836864
+69;Domiati Cheese;Fromage Domiati;cheese-white, cheese-domiati;fromage-blanc, fromage-domiati;Dairy;Produits laitiers;Domiati Cheese;Fromage Domiati;2.217406165
+70;Emmental Cheese;Fromage Emmental;cheese-emmental;fromage-emmental;Dairy;Produits laitiers;Emmental Cheese;Fromage Emmental;1.644726501
+71;Feta Cheese;Fromage Feta;cheese-feta;fromage-feta;Dairy;Produits laitiers;Feta Cheese;Fromage Feta;4.131667624
+72;Goat Cheese;Fromage de chèvre;cheese-goat;fromage-chèvre;Dairy;Produits laitiers;Goat Cheese;Fromage de chèvre;3.229332283
+73;Gruyere Cheese;Fromage Gruyère;cheese-gruyere;fromage-gruyère;Dairy;Produits laitiers;Gruyere Cheese;Fromage Gruyère;3.115687654
+74;Limburger Cheese;Fromage Limburger;cheese-limburger;fromage-limburger;Dairy;Produits laitiers;Limburger Cheese;Fromage Limburger;2.396332542
+75;Mozzarella Cheese;Fromage Mozzarella;cheese-mozzarella;fromage-mozzarella;Dairy;Produits laitiers;Mozzarella Cheese;Fromage Mozzarella;1.919298503
+76;Munster Cheese;Fromage Munster;cheese-munster;fromage-munster;Dairy;Produits laitiers;Munster Cheese;Fromage Munster;2.433110718
+78;Parmesan Cheese;Fromage Parmesan;cheese-parmesan;fromage-parmesan;Dairy;Produits laitiers;Parmesan Cheese;Fromage Parmesan;3.329498901
+79;Provolone Cheese;Fromage Provolone;cheese-provolone;fromage-provolone;Dairy;Produits laitiers;Provolone Cheese;Fromage Provolone;3.01814052
+80;Romano Cheese;Fromage Romano;cheese-romano;fromage-romano;Dairy;Produits laitiers;Romano Cheese;Fromage Romano;3.282877515
+81;Roquefort Cheese;Fromage Roquefort;cheese-roquefort;fromage-roquefort;Dairy;Produits laitiers;Roquefort Cheese;Fromage Roquefort;3.117849515
+82;Russian Cheese;Fromage russe;cheese-russia;fromage-russe;Dairy;Produits laitiers;Russian Cheese;Fromage russe;2.317318295
+83;Sheep Cheese;Fromage de brebis;cheese-sheep;fromage-mouton;Dairy;Produits laitiers;Sheep Cheese;Fromage de brebis;1.359637938
+84;Swiss Cheese;Fromage suisse;cheese-swiss;fromage-suisse;Dairy;Produits laitiers;Swiss Cheese;Fromage suisse;1.74293122
+85;Tilsit Cheese;Fromage Tilsit;cheese-tilsit;fromage-tilsit;Dairy;Produits laitiers;Tilsit Cheese;Fromage Tilsit;1.92522379
+87;Ghee;Ghee;ghee;ghee;Dairy;Produits laitiers;Ghee;Ghee;1.869479556
+88;Milk;Lait;milk;lait;Dairy;Produits laitiers;Milk;Lait;1.962392413
+89;Milk Fat;Graisse de lait;milk-fat, cream;lait-gras, crème;Dairy;Produits laitiers;Milk Fat;Graisse de lait;2.195596336
+90;Goat Milk;Lait de chèvre;goat-milk;lait de chèvre;Dairy;Produits laitiers;Goat Milk;Lait de chèvre;3.618571387
+91;Milk Powder;Poudre de lait;milk-powder;lait-poudre;Dairy;Produits laitiers;Milk Powder;Poudre de lait;1.782135129
+92;Sheep Milk;Lait de Mouton;sheep-milk;lait de brebis;Dairy;Produits laitiers;Sheep Milk;Lait de Mouton;1.439036402
+93;Skimmed Milk;Lait écrémé;milk-skimmed;lait écrémé;Dairy;Produits laitiers;Skimmed Milk;Lait écrémé;3.149783905
+94;Yogurt;Yogourt;yogurt, curd, yoghurt;yaourt, caillé, yaourt;Dairy;Produits laitiers;Yogurt;Yogourt;2.40137303
+95;Achilleas;Achilleas;achillea;achillea;Essential Oil;Huile essentielle;Achilleas;Achilleas;5.703285496
+96;Arar;Arar;arar;arar;Essential Oil;Huile essentielle;Arar;Arar;5.222863851
+97;Buchu;Buchu;buchu;buchu;Essential Oil;Huile essentielle;Buchu;Buchu;3.378244378
+98;Cajeput;Cajeput;cajeput;cajeput;Essential Oil;Huile essentielle;Cajeput;Cajeput;3.120559087
+99;Camphor;Camphre;camphor;camphre;Essential Oil;Huile essentielle;Camphor;Camphre;3.435017262
+100;Cascarilla;Cascarilla;cascarilla;cascarilla;Essential Oil;Huile essentielle;Cascarilla;Cascarilla;4.590885677
+101;Cedar;Cèdre;cedar;cèdre;Essential Oil;Huile essentielle;Cedar;Cèdre;3.098143536
+102;Chamomile;Camomille;chamomile, camomile;camomille, camomille;Essential Oil;Huile essentielle;Chamomile;Camomille;3.642149222
+103;Citronella Oil;Huile de citronnelle;citronella-oil;huile de citronnelle;Essential Oil;Huile essentielle;Citronella Oil;Huile de citronnelle;5.031318089
+104;Citrus Peel Oil;Huile de zeste d'agrumes;citrus-peel-oil;huile d'écorce d'agrume;Essential Oil;Huile essentielle;Citrus Peel Oil;Huile de zeste d'agrumes;3.002294843
+105;Eucalyptus Oil;Huile d'Eucalyptus;eucalyptus-oil;huile d'eucalyptus;Essential Oil;Huile essentielle;Eucalyptus Oil;Huile d'Eucalyptus;4.65446775
+106;Fir;Sapin;fir;sapin;Essential Oil;Huile essentielle;Fir;Sapin;2.750145211
+107;Geranium;Géranium;geranium;géranium;Essential Oil;Huile essentielle;Geranium;Géranium;4.340935492
+108;Grapefruit Peel Oil;Huile d'écorce de pamplemousse;grapefruit-peel-oil;pamplemousse-écorce-huile;Essential Oil;Huile essentielle;Grapefruit Peel Oil;Huile d'écorce de pamplemousse;4.701706739
+109;Grass;Herbe;grass;herbe;Essential Oil;Huile essentielle;Grass;Herbe;4.243391131
+110;Hops Oil;Huile de houblon;hops-oil;houblon-huile;Essential Oil;Huile essentielle;Hops Oil;Huile de houblon;4.9255722
+111;Hyacinth;Hyacinthe;hyacinth;jacinthe;Essential Oil;Huile essentielle;Hyacinth;Hyacinthe;3.035989503
+112;Hyssop Oil;Huile d'hysope;hyssop-oil;huile d'hysope;Essential Oil;Huile essentielle;Hyssop Oil;Huile d'hysope;3.006095707
+113;Lemon Grass;Lemon Grass;lemon-grass;citron-herbe;Essential Oil;Huile essentielle;Lemon Grass;Lemon Grass;3.814092601
+114;Lemon Peel Oil;Huile d'écorce de citron;lemon-peel-oil;citron-peel-huile;Essential Oil;Huile essentielle;Lemon Peel Oil;Huile d'écorce de citron;2.517496143
+115;Lime Peel Oil;Huile d'écorce de citron vert;lime-peel-oil;citron-peel-huile;Essential Oil;Huile essentielle;Lime Peel Oil;Huile d'écorce de citron vert;3.277826291
+116;Lovage;Livèche;lovage;livèche;Essential Oil;Huile essentielle;Lovage;Livèche;3.620187226
+117;Mandarin Orange Peel Oil;Huile d'écorce de mandarine;mandarin-peel-oil;mandarine-peel-huile;Essential Oil;Huile essentielle;Mandarin Orange Peel Oil;Huile d'écorce de mandarine;4.254607294
+118;Mastic Gum;Mastic Gum;mastic;lentisque;Essential Oil;Huile essentielle;Mastic Gum;Mastic Gum;2.6720062
+119;Mentha Oil;Huile de menthe;mentha-oil;huile de menthe;Essential Oil;Huile essentielle;Mentha Oil;Huile de menthe;5.619928852
+120;Myrrh;Myrrhe;myrrh;myrrhe;Essential Oil;Huile essentielle;Myrrh;Myrrhe;5.440856751
+121;Neroli Oil;Huile de Néroli;neroli-oil;huile de néroli;Essential Oil;Huile essentielle;Neroli Oil;Huile de Néroli;2.801275539
+122;Orange Oil;Huile d'orange;orange-oil;huile d'orange;Essential Oil;Huile essentielle;Orange Oil;Huile d'orange;4.427927683
+123;Orris;Orris;orris;orris;Essential Oil;Huile essentielle;Orris;Orris;5.178639715
+124;Clary Sage;Sauge sclarée;clary-sage;sauge sclarée;Essential Oil;Huile essentielle;Clary Sage;Sauge sclarée;5.419948524
+125;Red Sage;Sauge rouge;sage-red, sage-wild;sauge-rouge, sauge-sauvage;Essential Oil;Huile essentielle;Red Sage;Sauge rouge;2.606100379
+126;Spanish Sage;Sauge espagnole;sage-spanish;sauge-espagnole;Essential Oil;Huile essentielle;Spanish Sage;Sauge espagnole;5.079823115
+127;Sandalwood;Bois de santal;sandalwood;bois de santal;Essential Oil;Huile essentielle;Sandalwood;Bois de santal;4.700310751
+128;Sea Buckthorns;Argousier;sea-buckthorn;mer-épicorne;Fruit;Fruit;Sea Buckthorns;Argousier;1.289860612
+129;Sweet Grass;Herbe douce;sweet-grass;doux-herbe;Essential Oil;Huile essentielle;Sweet Grass;Herbe douce;3.963680734
+130;Valerian;Valériane;valerian;valériane;Essential Oil;Huile essentielle;Valerian;Valériane;4.592475884
+131;Wattle;Acacia;wattle;acacia;Essential Oil;Huile essentielle;Wattle;Acacia;4.271611685
+132;Yarrow;Achillée millefeuille;yarrow;achillée millefeuille;Essential Oil;Huile essentielle;Yarrow;Achillée millefeuille;2.918486312
+133;Ylang-Ylang;Ylang-Ylang;ylang-ylang-oil;ylang-huile d'ylang;Essential Oil;Huile essentielle;Ylang-Ylang;Ylang-Ylang;4.405156937
+134;Clam;Palourde;clam;palourde;Seafood;Fruits de mer;Clam;Palourde;13.17460874
+135;Crab;Crabe;crab;crabe;Seafood;Fruits de mer;Crab;Crabe;7.6415062
+136;Crayfish;Écrevisse;cray-fish;crayons-poisson;Seafood;Fruits de mer;Crayfish;Écrevisse;11.27262425
+137;Kelp;Varech;kelp;varech;Seafood;Fruits de mer;Kelp;Varech;7.651356066
+138;Krill;Krill;krill;krill;Seafood;Fruits de mer;Krill;Krill;11.31709745
+139;Lobster;Homard;#lobster#;#homard#;Seafood;Fruits de mer;Lobster;Homard;9.611704968
+140;Mollusc;Mollusque;mollusc, mussels;mollusque, moules;Seafood;Fruits de mer;Mollusc;Mollusque;14.71502374
+141;Oyster;Huître;oyster;huître;Seafood;Fruits de mer;Oyster;Huître;7.490967654
+142;Prawn;Crevette;prawn;crevette;Seafood;Fruits de mer;Prawn;Crevette;8.329599004
+143;Scallop;Coquille Saint-Jacques;scallop;coquille Saint-Jacques;Seafood;Fruits de mer;Scallop;Coquille Saint-Jacques;8.444568174
+144;Shellfish;Mollusques et crustacés;shellfish;coquillage;Seafood;Fruits de mer;Shellfish;Mollusques et crustacés;10.55675082
+145;Shrimp;Crevette;shrimp;crevette;Seafood;Fruits de mer;Shrimp;Crevette;5.278111469
+146;Trassi;Trassi;shrimp-paste-dried, trassi;pâte de crevettes-séché, trassi;Seafood;Fruits de mer;Trassi;Trassi;13.31539959
+147;Squid;Calmar;squid;calmar;Seafood;Fruits de mer;Squid;Calmar;4.972828079
+148;Bonito;Bonito;bonito;bonite;Fish;Poisson;Bonito;Bonito;17.2365653
+149;Caviar;Caviar;caviar;caviar;Fish;Poisson;Caviar;Caviar;12.51460204
+150;Codfish;Morue;codfish, cod;morue, cabillaud;Fish;Poisson;Codfish;Morue;14.79264089
+151;Fish;Poisson;fish, pomfret;poisson, pomfret;Fish;Poisson;Fish;Poisson;15.74167486
+152;Fatty Fish;Poisson gras;fish-fatty;poisson gras;Fish;Poisson;Fatty Fish;Poisson gras;10.02498202
+153;Lean Fish;Poisson maigre;fish-lean;poisson maigre;Fish;Poisson;Lean Fish;Poisson maigre;11.45749877
+154;Fish Oil;Huile de poisson;fish-oil;huile de poisson;Fish;Poisson;Fish Oil;Huile de poisson;13.03875679
+155;Smoked Fish;Poisson fumé;fish-smoked;poisson-fumé;Fish;Poisson;Smoked Fish;Poisson fumé;15.27536915
+156;Salmon;Saumon;#salmon#;#saumon;Fish;Poisson;Salmon;Saumon;14.12447773
+157;Artichoke;Artichauts;artichoke;artichaut;Flower;Légume;Artichoke;Artichauts;1.397512066
+158;Champaca;Champaca;champaca;champaca;Flower;Fleur;Champaca;Champaca;1.301508886
+159;Jasmine;Jasmin;jasmine;jasmin;Flower;Fleur;Jasmine;Jasmin;0.862527937
+160;Lavendar;Lavande;lavendar;lavande;Flower;Fleur;Lavendar;Lavande;1.379122085
+161;Rose;Rose;rose;rose;Flower;Fleur;Rose;Rose;0.508081151
+162;Apple;Pomme;apple;pomme;Fruit;Fruit;Apple;Pomme;1.452688548
+163;Apple Sauce;Sauce aux pommes;#apple-sauce#;#pomme-sauce#;Fruit;Fruit;Apple Sauce;Sauce aux pommes;0.738269078
+164;Apricot;Abricot;apricot;abricot;Fruit;Fruit;Apricot;Abricot;0.79359854
+165;Avocado;Avocat;avocado;avocat;Fruit;Fruit;Avocado;Avocat;1.163823374
+166;Babaco;Babaco;babaco;babaco;Fruit;Fruit;Babaco;Babaco;0.819781429
+167;Banana;Banane;banana;banane;Fruit;Fruit;Banana;Banane;1.692393056
+168;Beli;Beli;beli;beli;Fruit;Fruit;Beli;Beli;1.385280919
+169;Byrsonima crassifolia;Byrsonima crassifolia;byrsonima crassifolia, changunga, nanche, serette;byrsonima crassifolia, changunga, nanche, serette;Fruit;Fruit;Byrsonima crassifolia;Byrsonima crassifolia;1.499042014
+170;Cashew Apple;Pomme de cajou;cashew-apple;noix de cajou-pomme;Fruit;Fruit;Cashew Apple;Pomme de cajou;1.876085299
+171;Cherimoya;Cherimoya;cherimoya, custard apple;cherimoya, pomme de garde;Fruit;Fruit;Cherimoya;Cherimoya;0.683108529
+172;Coconut;Noix de coco;coconut;noix de coco;Fruit;Fruit;Coconut;Noix de coco;1.186312442
+173;Currant;Cassis;currant;groseille;Fruit;Fruit;Currant;Cassis;1.273745397
+174;Black Currant;Groseille noire;currant-black;groseille noire;Fruit;Fruit;Black Currant;Groseille noire;0.920251849
+175;Red Currant;Groseille rouge;currant-red;groseille-rouge;Fruit;Fruit;Red Currant;Groseille rouge;0.836319088
+176;White Currant;Groseille blanche;currant-white;groseille-blanche;Fruit;Fruit;White Currant;Groseille blanche;1.27041621
+177;Dates;Dattes;date;datte;Fruit;Fruit;Dates;Dattes;1.114645317
+178;Durian;Durian;durian;durian;Fruit;Fruit;Durian;Durian;1.837320035
+179;Elderberry;Sureau;elder-berry;sureau-mûre;Fruit;Fruit;Elderberry;Sureau;1.538011758
+180;Feijoa;Feijoa;feijoa;feijoa;Fruit;Fruit;Feijoa;Feijoa;1.305950207
+181;Fig;Figue;fig;figue;Fruit;Fruit;Fig;Figue;1.201479171
+182;Grape;Raisin;grape, merlot;raisin, merlot;Fruit;Fruit;Grape;Raisin;0.867489703
+183;Guava;Goyave;guava;goyave;Fruit;Fruit;Guava;Goyave;0.911527108
+184;Hogplum;Hogplum;hogplum;hogplum;Fruit;Fruit;Hogplum;Hogplum;1.620089814
+185;Jackfruit;Fruit du jacquier;jackfruit;jacquier;Fruit;Fruit;Jackfruit;Fruit du jacquier;1.169897295
+186;Kiwifruit;Kiwi;kiwi, kiwifruit;kiwi, kiwi-fruit;Fruit;Fruit;Kiwifruit;Kiwi;1.282238246
+187;Litchi;Litchi;litchi, lychee, lichee;litchi, litchi, litchi;Fruit;Fruit;Litchi;Litchi;1.124864901
+188;Loquat;Loquat;loquat;loquat;Fruit;Fruit;Loquat;Loquat;1.901824919
+189;Malay Apple;Pomme malaise;malay-apple;malay-pomme;Fruit;Fruit;Malay Apple;Pomme malaise;1.798918165
+190;Mango;Mangue;mango, amchoor, amchur;mangue, amchoor, amchur;Fruit;Fruit;Mango;Mangue;1.362264635
+191;Melon;Melon;melon;melon;Fruit;Fruit;Melon;Melon;1.513397248
+192;Musk Melon;Melon musqué;musk-melon, honeydew;musc-melon, miellat;Fruit;Fruit;Musk Melon;Melon musqué;0.712833637
+193;Naranjilla;Naranjilla;naranjilla;naranjilla;Fruit;Fruit;Naranjilla;Naranjilla;1.203300419
+194;Orange;Orange;orange;orange;Fruit;Fruit;Orange;Orange;1.758712431
+195;Bitter Orange;Orange amère;orange-bitter, orange-sour;orange-amère, orange-aigre;Fruit;Fruit;Bitter Orange;Orange amère;0.54157269
+196;Papaya;Papaye;papaya;papaye;Fruit;Fruit;Papaya;Papaye;0.521103747
+197;Mountain Papaya;Papaye de montagne;Papaya-mountain;Papaye-montagne;Fruit;Fruit;Mountain Papaya;Papaye de montagne;1.598447302
+198;Passionfruit;Fruit de la passion;passionfruit;fruit de la passion;Fruit;Fruit;Passionfruit;Fruit de la passion;0.765691776
+199;Yellow Passionfruit;Fruit de la passion jaune;passionfruit-yellow;fruit de la passion-jaune;Fruit;Fruit;Yellow Passionfruit;Fruit de la passion jaune;1.177804402
+200;Pawpaw;Pawpaw;pawpaw;papaye;Fruit;Fruit;Pawpaw;Pawpaw;0.53807241
+201;Peach;Pêche;peach, nectarine;pêche, nectarine;Fruit;Fruit;Peach;Pêche;1.992716026
+202;Pear;Poire;pear;poire;Fruit;Fruit;Pear;Poire;0.573132642
+203;Bartlett Pear;Poire Bartlett;pear-barlett;poire-barlett;Fruit;Fruit;Bartlett Pear;Poire Bartlett;0.752517704
+204;Prickly Pear;Figue de Barbarie;pear-prickly;poire à épines;Fruit;Fruit;Prickly Pear;Figue de Barbarie;1.817869888
+205;Pepino;Pepino;pepino, cucumber-sweet;pepino, concombre-sucré;Fruit;Fruit;Pepino;Pepino;1.597603742
+206;Pineapple;Ananas;pineapple, ananas;ananas, ananas;Fruit;Fruit;Pineapple;Ananas;0.650769187
+207;Plum;Prune;plum, prune;prune, pruneau;Fruit;Fruit;Plum;Prune;1.817064203
+208;Plumcot;Plumcot;plumcot, aprium;plumcot, aprium;Fruit;Fruit;Plumcot;Plumcot;1.103414158
+209;Pumpkin;Citrouille;pumpkin;citrouille;Fruit;Fruit;Pumpkin;Citrouille;1.045907697
+210;Quince;Coing;quince;coing;Fruit;Fruit;Quince;Coing;0.703460194
+211;Chinese Quince;Coing chinois;quince-chinese;coing-chinois;Fruit;Fruit;Chinese Quince;Coing chinois;0.813497225
+212;Raisin;Raisin;raisin, sultana;raisin sec, sultanine;Fruit;Fruit;Raisin;Raisin;1.557049194
+213;Roseapple;Ananas;rose-apple, java-apple;rose-pomme, java-pomme;Fruit;Fruit;Roseapple;Ananas;1.374011647
+214;Sapodilla;Sapodilla;sapodilla;sapodilla;Fruit;Fruit;Sapodilla;Sapodilla;1.543399647
+215;Soursop;Soursop;soursop;corossol;Fruit;Fruit;Soursop;Soursop;1.836613149
+216;Spineless Monkey Orange;Orange de singe sans épines;spineless-monkey-orange;spineless-monkey-orange;Fruit;Fruit;Spineless Monkey Orange;Orange de singe sans épines;0.589039907
+217;Starfruit;Starfruit;starfruit, carambola;carambole, carambole;Fruit;Fruit;Starfruit;Starfruit;0.833675169
+218;Tamarind;Tamarinier;tamarind;tamarin;Fruit;Fruit;Tamarind;Tamarinier;1.10255172
+219;Woodapple;Ananas des bois;woodapple;ananas des bois;Fruit;Fruit;Woodapple;Ananas des bois;1.795956713
+221;Bilberry;Myrtille;bilberry;myrtille;Fruit;Fruit;Bilberry;Myrtille;1.033144194
+222;Blackberry;Mûre;blackberry;mûre;Fruit;Fruit;Blackberry;Mûre;0.712367106
+223;Blueberry;Myrtille;blueberry;myrtille;Fruit;Fruit;Blueberry;Myrtille;1.165343051
+224;Cherry;Cerise;cherry;cerise;Fruit;Fruit;Cherry;Cerise;1.647417003
+225;Bitter Cherry;Cerise amère;cherry-choke, cherry-bitter;cerise-framboise, cerise-amère;Fruit;Fruit;Bitter Cherry;Cerise amère;0.943110688
+226;Sour Cherry;Cerise acide;cherry-morello, cherry-sour;cerise-morello, cerise-aigre;Fruit;Fruit;Sour Cherry;Cerise acide;1.3726952
+227;Sweet Cherry;Cerise douce;cherry-sweet, cherry-wild;cerise-sucrée, cerise-sauvage;Fruit;Fruit;Sweet Cherry;Cerise douce;1.380317022
+228;Cloudberry;Myrtille;cloudberry;mûre des marais;Fruit;Fruit;Cloudberry;Myrtille;1.196608076
+229;Cranberry;Canneberge;cranberry;canneberge;Fruit;Fruit;Cranberry;Canneberge;0.974738109
+230;Gooseberry;Groseille à maquereau;gooseberry;groseille à maquereau;Fruit;Fruit;Gooseberry;Groseille à maquereau;1.177190582
+231;Lingonberry;Lingonberry;lingonberry;airelle rouge;Fruit;Fruit;Lingonberry;Lingonberry;0.751323327
+232;Loganberry;Mûre de ronce;loganberry;mûre de Logan;Fruit;Fruit;Loganberry;Mûre de ronce;0.785354551
+233;Raspberry;Framboise;raspberry;framboise;Fruit;Fruit;Raspberry;Framboise;1.074244853
+234;Strawberry;Fraise;strawberry;fraise;Fruit;Fruit;Strawberry;Fraise;1.426402534
+235;Strawberry Jam;Confiture de fraises;strawberry-jam;confiture de fraises;Fruit;Fruit;Strawberry Jam;Confiture de fraises;1.264932381
+236;Bergamot;Bergamote;bergamot;bergamote;Fruit;Fruit;Bergamot;Bergamote;1.538766114
+237;Citrus Fruits;Agrumes;citrus;agrume;Fruit;Fruit;Citrus Fruits;Agrumes;1.651588465
+238;Grapefruit;Pamplemousse;grapefruit;pamplemousse;Fruit;Fruit;Grapefruit;Pamplemousse;1.658402328
+239;Kumquat;Kumquat;kumquat;kumquat;Fruit;Fruit;Kumquat;Kumquat;1.052893549
+240;Lemon;Citron;lemon;citron;Fruit;Fruit;Lemon;Citron;1.993121996
+241;Lime;Citron vert;lime;citron vert;Fruit;Fruit;Lime;Citron vert;0.62693034
+242;Mandarin Orange;Mandarine Orange;mandarin;mandarine;Fruit;Fruit;Mandarin Orange;Mandarine Orange;1.232153956
+243;Satsuma Orange;Orange Satsuma;mandarin-satsuma;mandarine-satsuma;Fruit;Fruit;Satsuma Orange;Orange Satsuma;1.820391367
+244;Tangerine;Mandarine;tangerine;mandarine;Fruit;Fruit;Tangerine;Mandarine;0.885437822
+245;Vanilla;Vanille;vanilla;vanille;Fruit;Fruit;Vanilla;Vanille;1.801943899
+246;Mushroom;Champignon;mushroom, porcini;champignon, porcini;Fungus;champignon;Mushroom;Champignon;1.24054665
+247;Truffle;Truffe;truffle;truffe;Fungus;champignon;Truffle;Truffe;2.551507548
+248;Angelica;Angélique;angelica;angélique;Herb;Herbe;Angelica;Angélique;0.739900326
+249;Artemisia;Artemisia;artemisia;artemisia;Herb;Herbe;Artemisia;Artemisia;0.98712827
+250;Basil;Basilic;basil;basilic;Herb;Herbe;Basil;Basilic;0.62063329
+251;Buckwheat;Sarrasin;buckwheat;sarrasin;Herb;Herbe;Buckwheat;Sarrasin;0.783897637
+252;Calamus;Calamus;calamus;calamus;Herb;Herbe;Calamus;Calamus;0.871199953
+253;Chervil;Cerfeuil;chervil;cerfeuil;Herb;Herbe;Chervil;Cerfeuil;0.650440034
+254;Coriander;Coriandre;coriander, cilantro;coriandre, cilantro;Herb;Herbe;Coriander;Coriandre;0.840316782
+255;Cornmint;Millepertuis;cornmint;menthe des champs;Herb;Herbe;Cornmint;Millepertuis;0.529402752
+256;Dill;Aneth;dill;aneth;Herb;Herbe;Dill;Aneth;0.939810744
+257;Fennel;Fenouil;fennel;fenouil;Herb;Herbe;Fennel;Fenouil;0.720680774
+258;Fenugreek;Fenugrec;fenugreek, methi;fenugrec, methi;Herb;Herbe;Fenugreek;Fenugrec;0.545374071
+259;Garlic;Ail;garlic;ail;Herb;Herbe;Garlic;Ail;0.721982084
+260;Lemon Balm;Mélisse;lemon-balm;citron-balme;Herb;Herbe;Lemon Balm;Mélisse;0.985619359
+261;Liqourice;Liqourice;liquorice;réglisse;Herb;Herbe;Liqourice;Liqourice;0.841417871
+262;Mint;Menthe;mint;menthe;Herb;Herbe;Mint;Menthe;0.81907031
+263;Rhubarb;Rhubarbe;rhubarb;rhubarbe;Herb;Herbe;Rhubarb;Rhubarbe;0.856312265
+264;Rosemary;Romarin;rosemary;romarin;Herb;Herbe;Rosemary;Romarin;0.941171834
+265;Sage;Sauge;sage;sauge;Herb;Herbe;Sage;Sauge;0.712637445
+266;Spearmint;Menthe verte;spearmint-oil;huile de menthe verte;Herb;Herbe;Spearmint;Menthe verte;0.56338219
+267;Scotch Spearmint;Menthe verte écossaise;spearmint-scotch;spearmint-scotch;Herb;Herbe;Scotch Spearmint;Menthe verte écossaise;0.713136624
+268;Tarragon;Estragon;tarragon;estragon;Herb;Herbe;Tarragon;Estragon;0.943935816
+269;Thyme;Thym;thyme;thym;Herb;Herbe;Thyme;Thym;0.847805765
+270;Beef;Bœuf;beef, steak, veal, sirloin;bœuf, steak, veau, aloyau;Meat;Viande;Beef;Bœuf;10.51560386
+271;Beef Processed;Bœuf transformé;beef-processed;bœuf transformé;Meat;Viande;Beef Processed;Bœuf transformé;6.354002748
+272;Chicken;Poulet;chicken;poulet;Meat;Viande;Chicken;Poulet;7.382218814
+273;Frankfurter Sausage;Saucisse de Francfort;frankfurter-sausage;saucisse de Francfort;Dish;Plat;Frankfurter Sausage;Saucisse de Francfort;4.497654688
+274;Ham;Jambon;ham;jambon;Meat;Viande;Ham;Jambon;11.0957279
+275;Lamb;Agneau;lamb, keema;agneau, keema;Meat;Viande;Lamb;Agneau;11.22034454
+276;Meat;Viande;meat;viande;Meat;Viande;Meat;Viande;7.546027185
+277;Mutton;Mouton;mutton;mouton;Meat;Viande;Mutton;Mouton;3.535582148
+278;Pork;Porc;pork, pig, bacon;porc, cochon, lard;Meat;Viande;Pork;Porc;4.138219684
+279;Sukiyaki;Sukiyaki;sukiyaki;sukiyaki;Meat;Viande;Sukiyaki;Sukiyaki;7.488375789
+280;Turkey;Dinde;turkey;dinde;Meat;Viande;Turkey;Dinde;8.094333045
+281;Almond;Amande;almond;amande;Nuts & Seed;Noix et graines;Almond;Amande;2.824560779
+282;Brazil Nut;Noix du Brésil;brazil-nut;brésilien-noisette;Nuts & Seed;Noix et graines;Brazil Nut;Noix du Brésil;3.36065753
+283;Cocoa;Cacao;cocoa;cacao;Nuts & Seed;Noix et graines;Cocoa;Cacao;2.081927173
+284;Beans;Haricots;bean;haricot;Legume;Légumineuse;Beans;Haricots;1.468734294
+285;Lima Beans;Haricot de Lima;bean-lima, bean-sieve, butter-bean;haricot-lima, haricot-maïs, haricot-beurre;Legume;Légumineuse;Lima Beans;Haricot de Lima;1.999141837
+286;Kidney Beans;Haricots rouges;bean-kidney, bean-red, bean-red-kidney, rajma;haricot-rognon, haricot-rouge, haricot-rouge-rognon, rajma;Legume;Légumineuse;Kidney Beans;Haricots rouges;0.799459396
+287;Peanut;Cacahuète;peanut;arachide;Nuts & Seed;Noix et graines;Peanut;Cacahuète;3.377718838
+288;Peas;Pois;pea;pois;Legume;Légumineuse;Peas;Pois;1.78737308
+289;Soybean;Soja;soy-bean, soya-bean;soja-haricot, soja-haricot;Legume;Légumineuse;Soybean;Soja;0.982154963
+290;Soybean Oil;Huile de soja;soy-bean-oil, soya-bean-oil;soja-huile de soja, soja-huile de soja;Legume;Légumineuse;Soybean Oil;Huile de soja;0.611768767
+291;Soybean Sauce;Sauce de soja;soy-bean-sauce, soya-bean-sauce, soy-sauce, soya-sauce;soja-sauce de soja, soja-sauce de soja, soja-sauce de soja, soja-sauce de soja;Plant;Plante;Soybean Sauce;Sauce de soja;1.386308813
+292;Filbert;Filbert;filbert;aveline;Nuts & Seed;Noix et graines;Filbert;Filbert;1.419172205
+293;Hazelnut;Noisette;hazel-nut;noisetier-noisette;Nuts & Seed;Noix et graines;Hazelnut;Noisette;3.065390657
+294;Macadamia Nut;Noix de Macadamia;macadamia-nut, bush-nut, hawaii-nut;macadamia-noisette, brousse-noisette, hawaii-noisette;Nuts & Seed;Noix et graines;Macadamia Nut;Noix de Macadamia;3.860863925
+296;Pecans;Noix de pécan;pecan;noix de pécan;Nuts & Seed;Noix et graines;Pecans;Noix de pécan;2.044511256
+297;Walnut;Noix;walnut;noix;Nuts & Seed;Noix et graines;Walnut;Noix;2.172924832
+298;Muskmallow;Mousseron;musk-mallow;musc-mallow;Nuts & Seed;Noix et graines;Muskmallow;Mousseron;3.719531643
+299;Sesame;Sésame;sesame;sésame;Nuts & Seed;Noix et graines;Sesame;Sésame;1.05891001
+300;Allium;Allium;allium;allium;Plant;Plante;Allium;Allium;2.232039327
+301;Alpinia;Alpinia;alpinia;alpinia;Plant;Plante;Alpinia;Alpinia;1.141424849
+302;Ceriman;Ceriman;ceriman;ceriman;Plant;Plante;Ceriman;Ceriman;1.928817197
+303;Chicory;Chicorée;chicory;chicorée;Plant;Plante;Chicory;Chicorée;2.571969219
+304;Hops;Houblon;hops;houblon;Plant;Plante;Hops;Houblon;1.133184503
+305;Laurel;Laurier;bay-laurel, bay-leaf;baie-laurel, baie-feuille;Plant;Plante;Laurel;Laurier;2.107853826
+306;Myrtle;Myrte;myrtle;myrte;Plant;Plante;Myrtle;Myrte;2.080794959
+307;Olive;Olive;olive;olive;Plant;Plante;Olive;Olive;2.929219224
+308;Pine;Pin;pine;pin;Plant;Plante;Pine;Pin;1.436232488
+309;Sassafras;Sassafras;sassafras;sassafras;Plant;Plante;Sassafras;Sassafras;2.450960009
+310;Tea;Thé;tea;thé;Plant;Plante;Tea;Thé;1.989363177
+311;Fermented Tea;Thé fermenté;tea-fermented;thé fermenté;Plant;Plante;Fermented Tea;Thé fermenté;2.233530312
+312;Tobacco;Tabac;tobacco;tabac;Plant;Plante;Tobacco;Tabac;2.47406503
+313;Watercress;Cresson;watercress;cresson;Plant;Plante;Watercress;Cresson;2.098831707
+314;Creosote;Créosote;creosote;créosote;Plant;Plante;Creosote;Créosote;2.694914693
+315;Honey;Miel;honey;miel;Plant;Plante;Honey;Miel;1.586628519
+316;Macaroni;Macaroni;macaroni;macaroni;Plant;Plante;Macaroni;Macaroni;1.415514025
+317;Mustard Oil;Huile de moutarde;mustard-oil;huile de moutarde;Plant;Plante;Mustard Oil;Huile de moutarde;1.34008433
+318;Peanut Butter;Beurre d'arachide;peanut-butter;cacahuète-beurre;Plant;Plante;Peanut Butter;Beurre d'arachide;1.171702899
+319;Peanut Oil;Huile d'arachide;peanut-oil;huile d'arachide;Plant;Plante;Peanut Oil;Huile d'arachide;0.853816146
+320;Rye;Seigle;rye;seigle;Cereal;Céréales;Rye;Seigle;3.003317314
+321;Storax;Storax;storax;storax;Plant;Plante;Storax;Storax;0.877479406
+322;Vinegar;Vinaigre;vinegar;vinaigre;Plant;Plante;Vinegar;Vinaigre;2.417324319
+323;Anise;Anis;anise, saunf;anis, saunf;Spice;Épice;Anise;Anis;1.150841837
+324;Anise Hyssop;Anis hysope;anise-hyssop;anis-hysope;Spice;Épice;Anise Hyssop;Anis hysope;0.59586352
+325;Star Anise;Anis étoilé;anise-star;anis étoilé;Spice;Épice;Star Anise;Anis étoilé;1.426851104
+326;Caraway;Carvi;caraway;carvi;Spice;Épice;Caraway;Carvi;0.665505095
+327;Cardamom;Cardamome;cardamom, cardamon;cardamome, cardamone;Spice;Épice;Cardamom;Cardamome;1.377451745
+328;Cassia;Cassia;cassia;cassia;Spice;Épice;Cassia;Cassia;1.235381485
+329;Celery;Céleri;celery;céleri;Spice;Épice;Celery;Céleri;1.363909082
+330;Cinnamon;Cannelle;cinnamon;cannelle;Spice;Épice;Cinnamon;Cannelle;1.429941846
+331;Clove;Clou de girofle;clove;clou de girofle;Spice;Épice;Clove;Clou de girofle;1.077392885
+332;Cumin;Cumin;cumin, jeera;cumin, jeera;Spice;Épice;Cumin;Cumin;1.059475891
+333;Ginger;Gingembre;ginger;gingembre;Spice;Épice;Ginger;Gingembre;0.986424797
+334;Mace;Macis;mace;macis;Spice;Épice;Mace;Macis;1.048162836
+335;Marjoram;Marjolaine;marjoram;marjolaine;Spice;Épice;Marjoram;Marjolaine;1.036210652
+336;Nutmeg;Noix de muscade;nutmeg;noix de muscade;Spice;Épice;Nutmeg;Noix de muscade;1.107730505
+337;Oregano;Origan;oregano;origan;Spice;Épice;Oregano;Origan;1.072882934
+338;Parsley;Persil;parsley;persil;Spice;Épice;Parsley;Persil;0.592520099
+339;Pepper;Poivre;pepper, kaali-mirch;poivre, kaali-mirch;Spice;Épice;Pepper;Poivre;0.849296694
+340;Saffron;Safran;saffron;safran;Spice;Épice;Saffron;Safran;0.509589507
+341;Turmeric;Curcuma;turmeric, tumeric;curcuma, tumeric;Spice;Épice;Turmeric;Curcuma;0.539680908
+342;Green Beans;Haricots verts;bean-green, bean-field, bean-flageolet, bean-french, bean-garden, bean-haricot, bean-string, bean-snap;haricot vert, champ de haricots, haricot-flageolet, haricot-français, jardin de haricots, haricot-haricot, haricot-corde, haricot-fraise;Vegetable;Légume;Green Beans;Haricots verts;1.706897137
+343;Chive;Ciboulette;chive;ciboulette;Vegetable;Légume;Chive;Ciboulette;1.626077811
+344;Endive;Endive;endive;endive;Vegetable;Légume;Endive;Endive;0.564689353
+345;Leek;Poireau;leek;poireau;Vegetable;Légume;Leek;Poireau;0.693437986
+346;Lettuce;Laitue;lettuce;laitue;Vegetable;Légume;Lettuce;Laitue;0.637068933
+347;Okra;Gombo;okra, bhindi, lady-finger;okra, bhindi, lady-finger;Vegetable;Légume;Okra;Gombo;0.901118124
+348;Onion;Oignon;onion;oignon;Vegetable;Légume;Onion;Oignon;1.8204442
+349;Shallot;Échalote;shallot;échalote;Vegetable;Légume;Shallot;Échalote;1.294298737
+350;Peppermint;Menthe poivrée;peppermint;menthe poivrée;Herb;Herbe;Peppermint;Menthe poivrée;0.849752431
+351;Broccoli;Brocoli;broccoli, broccolini;brocoli, broccolini;Vegetable;Légume;Broccoli;Brocoli;1.953987835
+352;Brussels Sprout;Chou de Bruxelles;brussels-sprout;chou de Bruxelles;Vegetable;Légume;Brussels Sprout;Chou de Bruxelles;1.523610306
+353;Cabbage;Chou;cabbage;chou;Vegetable;Légume;Cabbage;Chou;1.782900646
+354;Cauliflower;Chou-fleur;cauliflower;chou-fleur;Vegetable;Légume;Cauliflower;Chou-fleur;1.672521587
+355;Horseradish;Raifort;horseradish;raifort;Vegetable;Légume;Horseradish;Raifort;1.402830206
+356;Mustard;Moutarde;mustard;moutarde;Vegetable;Légume;Mustard;Moutarde;1.800944694
+357;Radish;Radis;radish, daikon, mooli;radis, daikon, mooli;Vegetable;Légume;Radish;Radis;0.90446658
+358;Turnip;Navet;turnip;navet;Vegetable;Légume;Turnip;Navet;1.41437748
+359;Kohlrabi;Chou-rave;kohlrabi;chou-rave;Vegetable;Légume;Kohlrabi;Chou-rave;1.295311547
+360;Rutabaga;Rutabaga;rutabaga;rutabaga;Vegetable;Légume;Rutabaga;Rutabaga;1.620917468
+361;Wasabi;Wasabi;wasabi;wasabi;Vegetable;Légume;Wasabi;Wasabi;1.84237654
+362;Capsicum;Capsicum;capsicum, paprika, pepper-bell, pepper-sweet;poivron, paprika, poivre en cloche, poivre doux;Vegetable;Légume;Capsicum;Capsicum;1.389697606
+363;Cherry Pepper;Poivron cerise;pimiento, cherry-pepper;pimiento, cerise-poivre;Vegetable;Légume;Cherry Pepper;Poivron cerise;0.872436242
+364;Tomato;Tomate;tomato;tomate;Vegetable;Légume;Tomato;Tomate;1.170109605
+365;Chayote;Chayotte;chayote;chayotte;Vegetable;Légume;Chayote;Chayotte;1.587526062
+366;Cucumber;Concombre;cucumber;concombre;Vegetable;Légume;Cucumber;Concombre;0.672854222
+367;Beetroot;Betterave rouge;beetroot, beet;betterave, betterave;Vegetable;Légume;Beetroot;Betterave rouge;1.454444367
+368;Carrot;Carotte;carrot;carotte;Vegetable;Légume;Carrot;Carotte;1.323732844
+369;Parsnip;Panais;parsnip;panais;Vegetable;Légume;Parsnip;Panais;0.651352924
+370;Sweet Potato;Patate douce;potato-sweet;pomme de terre douce;Vegetable;Légume;Sweet Potato;Patate douce;1.148329762
+371;Asparagus;Asperge;asparagus;asperge;Vegetable;Légume;Asparagus;Asperge;1.460120488
+372;Cassava;Manioc;cassava;manioc;Vegetable;Légume;Cassava;Manioc;1.6249656
+373;Potato;Pomme de terre;potato;pomme de terre;Vegetable;Légume;Potato;Pomme de terre;0.974239298
+374;Fried Potato;Pommes de terre frites;potato-fried;pomme de terre-frite;Bakery;Boulangerie;Fried Potato;Pommes de terre frites;2.723345091
+375;Allspice;Piment de la Jamaïque;allspice, pimenta, myrtle-pepper;piment de la Jamaïque, pimenta, myrte-poivre;Spice;Épice;Allspice;Piment de la Jamaïque;1.01733795
+376;Asafoetida;Asafoetida;asafoetida, asafetida, hing, asant;asafoetida, asafetida, hing, asant;Spice;Épice;Asafoetida;Asafoetida;1.05966556
+377;Ashgourd;Courge cendrée;ash-gourd, white-gourd;cendre-courgeoise, blanc-courgeoise;Vegetable;Légume;Ashgourd;Courge cendrée;0.524016567
+378;Bittergourd;Courge amère;bitter-gourd, squash-bitter;amer-courgeoise, amer de courge;Vegetable;Légume;Bittergourd;Courge amère;1.010899989
+379;Bottlegourd;Gourmandise;bottle-gourd;bouteille-courgeoise;Vegetable;Légume;Bottlegourd;Gourmandise;0.593050869
+380;Canola Oil;Huile de canola;canola-oil;huile de canola;Essential Oil;Huile essentielle;Canola Oil;Huile de canola;3.881841448
+381;Carom Seed;Graine de carome;carom seed, ajwain;graine de carome, ajwain;Spice;Épice;Carom Seed;Graine de carome;0.612084771
+382;Chard;Bette à carde;chard;blette;Vegetable;Légume;Chard;Bette à carde;1.827485869
+383;Apple Cider Vinegar;Vinaigre de cidre de pomme;vinegar-cider, cider-vinegar;vinaigre-cidre, cidre-vinaigre;Plant;Plante;Apple Cider Vinegar;Vinaigre de cidre de pomme;2.368972316
+384;Colocasia;Colocasia;colocasia;colocasia;Vegetable;Légume;Colocasia;Colocasia;1.743044139
+385;Curry Leaf;Feuille de curry;curry-leaf;curry-feuille;Herb;Herbe;Curry Leaf;Feuille de curry;0.805455684
+386;Drumstick Leaf;Feuille de pilon;drumstick-leaf;feuille de pilon;Vegetable;Légume;Drumstick Leaf;Feuille de pilon;1.60136662
+387;Eggplant;Aubergine;eggplant, aubergine, brinjal;aubergine, aubergine, brinjal;Vegetable;Légume;Eggplant;Aubergine;0.811829704
+388;Flaxseed;Graine de lin;flax-seed;lin-graine;Nuts & Seed;Noix et graines;Flaxseed;Graine de lin;3.702258351
+389;Jalapeno;Jalapeno;jalapeno;jalapeno;Spice;Épice;Jalapeno;Jalapeno;0.994366323
+390;Kenaf;Kenaf;kenaf;kenaf;Essential Oil;Huile essentielle;Kenaf;Kenaf;3.792513924
+391;Lotus;Lotus;lotus;lotus;Essential Oil;Huile essentielle;Lotus;Lotus;4.866681414
+392;Nigella Seed;Graine de Nigelle;nigella-seed, kalonji;graine de nigelle, kalonji;Nuts & Seed;Noix et graines;Nigella Seed;Graine de Nigelle;1.771875406
+393;Kewda;Kewda;kewda, kewra;kewda, kewra;Essential Oil;Huile essentielle;Kewda;Kewda;5.323752108
+394;Pomegranate;Grenade;pomegranate, anaardana;grenade, anaardana;Fruit;Fruit;Pomegranate;Grenade;0.700822712
+395;Poppy Seed;Graine de pavot;poppy-seed;coquelicot, graine;Spice;Épice;Poppy Seed;Graine de pavot;0.688023299
+396;Spinach;Epinards;spinach, palak;épinard, palak;Vegetable;Légume;Spinach;Epinards;1.972962735
+397;Turkey Berry;Baie de dinde;turkey-berry;dinde-berry;Vegetable;Légume;Turkey Berry;Baie de dinde;1.142692596
+398;Water Chestnut;Châtaigne d'eau;water-chestnut, water-caltrop;eau-châtaigne, eau-caltrop;Fruit;Fruit;Water Chestnut;Châtaigne d'eau;1.896238682
+399;White Pepper;Poivre blanc;pepper-white;poivre blanc;Spice;Épice;White Pepper;Poivre blanc;1.327102216
+400;Garcinia Indica;Garcinia Indica;kokum, garnicia-indica;kokum, garnicia-indica;Fruit;Fruit;Garcinia Indica;Garcinia Indica;1.310269794
+401;Cluster Bean;Haricot à grappes;bean-cluster, bean-guar;haricot-cluster, haricot-guar;Legume;Légumineuse;Cluster Bean;Haricot à grappes;0.629656406
+402;Paneer;Paneer;paneer;paneer;Dairy;Produits laitiers;Paneer;Paneer;4.029806545
+403;Pigeon Pea;Pois d'Angole;pea-pigeon, arhar, pea-no-eye, dal-toor, red-gram;pois-pigeon, arhar, pois-no-oeil, dal-toor, rouge-gramme;Legume;Légumineuse;Pigeon Pea;Pois d'Angole;0.795660042
+404;Basmati Rice;Riz Basmati;basmati;basmati;Cereal;Céréales;Basmati Rice;Riz Basmati;2.606756582
+405;Ricotta Cheese;Fromage Ricotta;cheese-ricotta;fromage-ricotta;Dairy;Produits laitiers;Ricotta Cheese;Fromage Ricotta;3.080440767
+408;Silver linden;Tilleul argenté;linden-silver;tilleul-argenté;Herb;Herbe;Silver linden;Tilleul argenté;0.701288084
+409;Redskin onion;Oignon à peau rouge;onion-red-skin, onion-red;oignon-rouge-peau, oignon-rouge;Vegetable;Légume;Redskin onion;Oignon à peau rouge;0.585159028
+410;Lemon verbena;Verveine citronnée;verbena-lemon;verveine-citron;Herb;Herbe;Lemon verbena;Verveine citronnée;0.868282306
+411;Cashew nut;Noix de cajou;cashew, cashew-nut;noix de cajou, noix de cajou-noix;Nuts & Seed;Noix et graines;Cashew nut;Noix de cajou;2.260393331
+412;Burdock;Bardane;burdock;bardane;Vegetable;Légume;Burdock;Bardane;0.838015024
+413;Borage;Bourrache;borage;bourrache;Herb;Herbe;Borage;Bourrache;0.554350237
+414;Capers;Câpres;caper;câpre;Herb;Herbe;Capers;Câpres;0.572619331
+415;Safflower;Carthame;saf-flower;saf-fleur;Herb;Herbe;Safflower;Carthame;0.802199554
+416;Chestnut;Châtaigne;chestnut;châtaigne;Nuts & Seed;Noix et graines;Chestnut;Châtaigne;1.992692984
+417;Chickpea;Pois chiche;pea-chick, besan, chickpea, kabuli chana, kala chana, garbanzo;pois chiche, besan, pois chiche, kabuli chana, kala chana, garbanzo;Legume;Légumineuse;Chickpea;Pois chiche;0.988495445
+418;Pummelo;Pummelo;pummelo;pummelo;Fruit;Fruit;Pummelo;Pummelo;0.641322637
+419;Arabica coffee;Café Arabica;coffee-arabica;café-arabica;Beverage;Boisson;Arabica coffee;Café Arabica;0.950930743
+421;Japanese persimmon;Kaki japonais;persimmon-japanese;kaki-japonais;Fruit;Fruit;Japanese persimmon;Kaki japonais;0.709811356
+422;Black crowberry;Corneille noire;crowberry-black;camarine noire;Fruit;Fruit;Black crowberry;Corneille noire;1.412274058
+423;Rocket salad;Salade de roquette;salad-rocket;salade-racine;Herb;Herbe;Rocket salad;Salade de roquette;0.503286554
+424;Tartary buckwheat;Sarrasin de Tartarie;buckwheat-tartary;sarrasin-tartare;Cereal;Céréales;Tartary buckwheat;Sarrasin de Tartarie;3.154213707
+425;Black huckleberry;Myrtille noire;huckleberry-black;myrtille-noire;Fruit;Fruit;Black huckleberry;Myrtille noire;1.903303185
+426;Sunflower;Tournesol;sunflower;tournesol;Flower;Fleur;Sunflower;Tournesol;0.873720736
+427;Swamp cabbage;Chou des marais;cabbage-swamp;chou-champignon;Vegetable;Légume;Swamp cabbage;Chou des marais;0.815181891
+428;Grass pea;Pois de senteur;pea-grass;pois-herbe;Legume;Légumineuse;Grass pea;Pois de senteur;1.364622153
+429;Lentils;Lentilles;lentil;lentille;Legume;Légumineuse;Lentils;Lentilles;1.639180186
+430;Garden cress;Cresson de jardin;cress;cresson;Herb;Herbe;Garden cress;Cresson de jardin;0.668004008
+431;Mexican oregano;Origan mexicain;oregano-mexican;oregano-mexicain;Herb;Herbe;Mexican oregano;Origan mexicain;0.580832814
+432;Lupine;Lupin;lupine;lupin;Plant;Plante;Lupine;Lupin;2.084616451
+433;Medlar;Mèfle;medlar;néflier;Fruit;Fruit;Medlar;Mèfle;1.351703471
+434;Mulberry;Mûrier;mulberry;mûrier;Fruit;Fruit;Mulberry;Mûrier;1.866252205
+435;Black mulberry;Mûrier noir;mulberry-black;mûrier-noir;Fruit;Fruit;Black mulberry;Mûrier noir;1.497748961
+436;Evening primrose;Onagre;primrose;primevère;Herb;Herbe;Evening primrose;Onagre;0.969533169
+437;Millet;Millet;millet;millet;Legume;Légumineuse;Millet;Millet;0.569785376
+438;Scarlet bean;Haricot écarlate;bean-scarlet;haricot-scarlette;Legume;Légumineuse;Scarlet bean;Haricot écarlate;0.772861175
+439;Pistachio;Pistachier;pistachio;pistache;Nuts & Seed;Noix et graines;Pistachio;Pistachier;1.876339758
+440;Purslane;Pourpier;purslane;pourpier;Plant;Plante;Purslane;Pourpier;1.186099233
+441;Red raspberry;Framboise rouge;raspberry-red;framboise-rouge;Fruit;Fruit;Red raspberry;Framboise rouge;1.837881681
+442;Black raspberry;Framboise noire;raspberry-black;framboise-noire;Fruit;Fruit;Black raspberry;Framboise noire;1.775283959
+443;Sorrel;Oseille;sorrel;oseille;Herb;Herbe;Sorrel;Oseille;0.871133502
+444;Summer savory;Sariette d'été;savory-summer;sarriette-été;Herb;Herbe;Summer savory;Sariette d'été;0.573521602
+445;Winter savory;Sarriette d'hiver;savory-winter;sarriette-hiver;Herb;Herbe;Winter savory;Sarriette d'hiver;0.500564278
+446;Cherry tomato;Tomate cerise;cherry-tomato;cerise-tomate;Fruit;Fruit;Cherry tomato;Tomate cerise;1.04124772
+447;Rowanberry;Rowanberry;rowan-berry;sorbier-mûre;Fruit;Fruit;Rowanberry;Rowanberry;1.024500983
+448;Sorghum;Sorgho;sorghum;sorgho;Cereal;Céréales;Sorghum;Sorgho;2.591788144
+449;Dandelion;Pissenlit;dandelion;pissenlit;Flower;Fleur;Dandelion;Pissenlit;0.804573299
+450;Linden;Tilleul;linden;tilleul;Herb;Herbe;Linden;Tilleul;0.996571184
+451;Small leaf linden;Tilleul à petites feuilles;linden-leaf;feuille de tilleul;Plant;Plante;Small leaf linden;Tilleul à petites feuilles;1.832104513
+452;Wheat;Blé;wheat;blé;Cereal;Céréales;Wheat;Blé;2.527668911
+453;Sparkleberry;Amélanchier;sparkleberry;fraise des bois;Fruit;Fruit;Sparkleberry;Amélanchier;0.585596923
+454;Common verbena;Verveine commune;vverbena, vervain;verveine, verveine;Herb;Herbe;Common verbena;Verveine commune;0.653644238
+455;Adzuki bean;Haricot Adzuki;bean-adzuki;haricot-adzuki;Legume;Légumineuse;Adzuki bean;Haricot Adzuki;0.791527193
+456;Gram bean;Haricot Gram;bean-gram;haricot-gramme;Legume;Légumineuse;Gram bean;Haricot Gram;0.912184892
+457;Mung bean;Haricot mungo;bean-mung, bean-moong;haricot-mung, haricot-moong;Legume;Légumineuse;Mung bean;Haricot mungo;0.835599971
+458;Climbing bean;Haricot grimpant;bean-climbing;haricot grimpant;Legume;Légumineuse;Climbing bean;Haricot grimpant;0.920446731
+459;Muscadine grape;Raisin muscadine;grape-muscadine;raisin-muscadine;Fruit;Fruit;Muscadine grape;Raisin muscadine;1.704345934
+460;Bayberry;Myrtille;bayberry;baie de laurier;Fruit;Fruit;Bayberry;Myrtille;1.672442407
+461;Elliott's blueberry;Myrtille d'Elliott;blueberry-elliot;myrtille-elliot;Fruit;Fruit;Elliott's blueberry;Myrtille d'Elliott;0.721206195
+462;Canada blueberry;Myrtille du Canada;blueberry-canada;myrtille-canada;Fruit;Fruit;Canada blueberry;Myrtille du Canada;0.991044179
+463;Buffalo currant;Groseille à maquereau;currant-buffalo;groseille-buffle;Fruit;Fruit;Buffalo currant;Groseille à maquereau;1.495621019
+464;Deerberry;Raisin de cerf;deer-berry;cerf-mûre;Fruit;Fruit;Deerberry;Raisin de cerf;1.345375609
+465;Ginseng;Ginseng;ginseng;ginseng;Vegetable;Légume;Ginseng;Ginseng;0.540962764
+466;Longan;Longan;longan;longan;Plant;Plante;Longan;Longan;1.936126912
+469;Rambutan;Ramboutan;rambutan;ramboutan;Fruit;Fruit;Rambutan;Ramboutan;1.871550497
+470;Red rice;Riz rouge;rice-red;riz-rouge;Cereal;Céréales;Red rice;Riz rouge;3.011330016
+472;Welsh onion;Oignon gallois;onion-welsh, onion-spring, scallion;oignon-gallois, oignon-ressort, échalote;Vegetable;Légume;Welsh onion;Oignon gallois;1.884646358
+473;Hard wheat;Blé dur;wheat-hard, spaghetti;blé-dur, spaghetti;Cereal;Céréales;Hard wheat;Blé dur;2.5398058
+474;Triticale;Triticale;triticale;triticale;Cereal;Céréales;Triticale;Triticale;3.137605124
+475;Komatsuna;Komatsuna;komatsuna;komatsuna;Vegetable;Légume;Komatsuna;Komatsuna;0.957854715
+476;Pak choy;Pak choy;pak-choy, pak-choi;pak-choy, pak-choi;Vegetable;Légume;Pak choy;Pak choy;0.913234377
+477;Jostaberry;Jostaberry;jostaberry;jostaberry;Fruit;Fruit;Jostaberry;Jostaberry;1.961179031
+478;Kai lan;Kai lan;kai-lan;kai-lan;Vegetable;Légume;Kai lan;Kai lan;1.722900454
+480;Pineappple sage;Sauge ananas;pineappple-sage;ananas-sauce;Herb;Herbe;Pineappple sage;Sauge ananas;0.962933616
+481;Skunk currant;Groseille à maquereau;currant-skunk;groseille-skunk;Fruit;Fruit;Skunk currant;Groseille à maquereau;0.801419082
+482;Breakfast cereal;Céréales pour petit-déjeuner;cereal;céréales;Cereal;Céréales;Breakfast cereal;Céréales pour petit-déjeuner;2.698302288
+484;Pasta;Pâtes;pasta;pâtes;Bakery;Boulangerie;Pasta;Pâtes;1.477180068
+485;Biscuit;Biscuit;biscuit;biscuit;Bakery;Boulangerie;Biscuit;Biscuit;2.098429764
+486;Sourdough;Sourdough;sourdough;levain;Cereal;Céréales;Sourdough;Sourdough;2.600618923
+487;Spirit;Esprit;spirit;esprit;Beverage Alcoholic;Boisson alcoolisée;Spirit;Esprit;10.7366377
+489;Abalone;Ormeau;abalone;ormeau;Fungus;Champignon;Abalone;Ormeau;1.387546699
+490;Abiyuch;Abiyuch;abiyuch;abiyuch;Plant;Plante;Abiyuch;Abiyuch;2.32139275
+491;Acerola;Acérola;acerola;acérola;Fruit;Fruit;Acerola;Acérola;1.992612204
+492;Acorn;Gland;acorn;gland;Nuts & Seed;Noix et graines;Acorn;Gland;1.856338287
+493;Winter squash;Courge d'hiver;squash-winter, squash-yellow;courge-hiver, courge-jaune;Fruit;Fruit;Winter squash;Courge d'hiver;1.921867435
+494;Agar;Agar;agar;agar;Additive;Condiment;Agar;Agar;0.765096509
+495;Red king crab;Crabe royal rouge;#crab-red-king#;#crabe-rouge;Seafood;Fruits de mer;Red king crab;Crabe royal rouge;7.688136052
+496;Alfalfa;Luzerne;alfalfa;luzerne;Herb;Herbe;Alfalfa;Luzerne;0.789238559
+497;Amaranth;Amarante;amaranth;amarante;Herb;Herbe;Amaranth;Amarante;0.936043049
+498;Arrowhead;Tête de flèche;arrowhead;tête de flèche;Vegetable;Légume;Arrowhead;Tête de flèche;1.869502733
+499;Arrowroot;Arrowroot (racine de flèche);arrowroot;arrowroot;Vegetable;Légume;Arrowroot;Arrowroot (racine de flèche);1.677024029
+500;Atlantic herring;Hareng de l'Atlantique;#herring-atlantic#;#hareng-atlantique#;Fish;Poisson;Atlantic herring;Hareng de l'Atlantique;6.855669153
+501;Atlantic mackerel;Maquereau de l'Atlantique;#mackerel-atlantic#;#mackerel-atlantique#;Fish;Poisson;Atlantic mackerel;Maquereau de l'Atlantique;16.07893315
+502;Painted comber;Mérou de l'Atlantique;comber;combe;Fish;Poisson;Painted comber;Mérou de l'Atlantique;9.989794687
+503;Atlantic pollock;Loup atlantique;#pollock-atlantic#;#pollock-atlantique#;Fish;Poisson;Atlantic pollock;Loup atlantique;15.21623444
+504;Atlantic wolffish;Loup atlantique;wolffish;loup de mer;Fish;Poisson;Atlantic wolffish;Loup atlantique;6.459076807
+505;Bamboo shoots;Pousses de bambou;bamboo-shoot;pousse de bambou;Plant;Plante;Bamboo shoots;Pousses de bambou;2.119067819
+506;Striped bass;Bar rayé;bass;bar;Fish;Poisson;Striped bass;Bar rayé;7.095045318
+507;Beaver;Castor;beaver;castor;Meat;Viande;Beaver;Castor;4.240355484
+508;Beech nut;Noix de hêtre;nut-beech;noix-hêtre;Nuts & Seed;Noix et graines;Beech nut;Noix de hêtre;1.617720681
+509;Beluga whale;Béluga;#whale-beluga#;#baleine-béluga;Fish;Poisson;Beluga whale;Béluga;7.288999843
+510;Bison;Bison;bison;bison;Meat;Viande;Bison;Bison;5.888451091
+511;Black bear;Ours noir;#bear-black#;#ours-noir;Meat;Viande;Black bear;Ours noir;9.022188389
+512;Alaska blackfish;Poisson noir d'Alaska;blackfish;poisson noir;Fish;Poisson;Alaska blackfish;Poisson noir d'Alaska;15.65733862
+513;Northern bluefin tuna;Thon rouge du Nord;#tuna-bluefin#;#thon rouge#;Fish;Poisson;Northern bluefin tuna;Thon rouge du Nord;8.106384656
+514;Bluefish;Poisson bleu;bluefish;poisson bleu;Fish;Poisson;Bluefish;Poisson bleu;15.93120038
+515;Wild boar;Sanglier;boar;sanglier;Meat;Viande;Wild boar;Sanglier;12.87067038
+516;Bowhead whale;Baleine boréale;#whale-bowhead#;#whale-bowhead#;Fish;Poisson;Bowhead whale;Baleine boréale;10.16850162
+517;Breadfruit;Fruit à pain;breadfruit;fruit à pain;Fruit;Fruit;Breadfruit;Fruit à pain;0.665967904
+519;Rapini;Rapini;rapini;rapini;Vegetable;Légume;Rapini;Rapini;1.520532863
+520;Brown bear;Ours brun;#bear-brown#;#Ours brun;Meat;Viande;Brown bear;Ours brun;6.522228131
+521;Buffalo;Buffle;#buffalo#;#buffalo#;Meat;Viande;Buffalo;Buffle;9.054901733
+522;Burbot;lotte;burbot;lotte;Fish;Poisson;Burbot;lotte;16.79684469
+523;Giant butterbur;Pétoncle géant;butterbur;pétasite;Plant;Plante;Giant butterbur;Pétoncle géant;2.242923886
+524;American butterfish;Papillon d'Amérique;butterfish;papillon;Fish;Poisson;American butterfish;Papillon d'Amérique;10.7362561
+525;Butternut;Butternut;butternut;butternut;Nuts & Seed;Noix et graines;Butternut;Butternut;3.201145714
+526;Butternut squash;Courge musquée;butternut-squash, butternut-pumpkin;courge musquée, potiron musqué;Fruit;Fruit;Butternut squash;Courge musquée;1.685876902
+527;Cardoon;Cardon;cardoon;cardon;Plant;Plante;Cardoon;Cardon;2.727591941
+528;Caribou;Caribou;caribou;caribou;Meat;Viande;Caribou;Caribou;7.609603943
+529;Natal plum;Prune du Natal;plum-natal;prune-natale;Fruit;Fruit;Natal plum;Prune du Natal;0.968926298
+530;Carob;Caroube;carob;caroube;Plant;Plante;Carob;Caroube;0.851406995
+531;Common carp;Carpe commune;carp;carpe;Fish;Poisson;Common carp;Carpe commune;9.718449486
+532;Channel catfish;Chien-chat de rivière;#catfish-channel#;#carpe-canal#;Fish;Poisson;Channel catfish;Chien-chat de rivière;17.36786121
+533;Chia;Chia;chia;chia;Herb;Herbe;Chia;Chia;0.759799103
+534;Chinese chestnut;Châtaigne chinoise;chestnut-chinese;châtaigne-chinoise;Nuts & Seed;Noix et graines;Chinese chestnut;Châtaigne chinoise;3.901730261
+535;Garland chrysanthemum;Chrysanthème de Garlande;garland-chrysanthemum;guirlande-chrysanthème;Flower;Fleur;Garland chrysanthemum;Chrysanthème de Garlande;1.391358678
+536;Cisco;Cisco;#cisco#;#cisco#;Fish;Poisson;Cisco;Cisco;14.67704169
+537;Nuttall cockle;Coque de Nuttall;nuttall-cockle;châtaigne-cockle;Fish;Poisson;Nuttall cockle;Coque de Nuttall;6.110040459
+538;Common octopus;Pieuvre commune;#octopus#;#octopus#;Seafood;Fruits de mer;Common octopus;Pieuvre commune;13.31092728
+539;Corn salad;Salade de maïs;salad-corn;salade-maïs;Vegetable;Légume;Corn salad;Salade de maïs;1.230977356
+540;Cottonseed;Graine de coton;cotton-seed;coton-graine;Plant;Plante;Cottonseed;Graine de coton;0.533709425
+541;Catjang pea;Pois Catjang;pea-catjang;pois-catjang;Legume;Légumineuse;Catjang pea;Pois Catjang;1.522745071
+542;Squashberry;Courge;squash-berry;courge-mûre;Fruit;Fruit;Squashberry;Courge;0.554085203
+543;Atlantic croaker;Croak de l'Atlantique;#croaker-atlantic#;#croaker-atlantique#;Fish;Poisson;Atlantic croaker;Croak de l'Atlantique;8.029136411
+544;Cusk;Brosme;cusk;brosme;Fish;Poisson;Cusk;Brosme;10.09488188
+545;Cuttlefish;Seiche;cuttle-fish;seiche-poisson;Fish;Poisson;Cuttlefish;Seiche;14.2426177
+546;Mule deer;Cerf mulet;#mule deer#;#cerf-mulet#;Meat;Viande;Mule deer;Cerf mulet;9.550472895
+547;Devilfish;Poisson diable;devil-fish;diable-poisson;Fish;Poisson;Devilfish;Poisson diable;10.96594587
+548;Dock;Dock;dock;quai;Herb;Herbe;Dock;Dock;0.76997647
+549;Dolphin fish;Poisson dauphin;dolphin;dauphin;Fish;Poisson;Dolphin fish;Poisson dauphin;10.56414128
+550;Freshwater drum;Tambour d'eau douce;drum;tambour;Fish;Poisson;Freshwater drum;Tambour d'eau douce;10.23094988
+551;Wild duck;Canard sauvage;duck;canard;Meat;Viande;Wild duck;Canard sauvage;14.07200031
+552;Freshwater eel;Anguille d'eau douce;eel;anguille;Fish;Poisson;Freshwater eel;Anguille d'eau douce;11.34636308
+553;Elk;Elan;#elk#;#elk#;Meat;Viande;Elk;Elan;11.64174162
+554;Emu;Émeu;emu;émeu;Meat;Viande;Emu;Émeu;8.504071927
+555;Oregon yampah;Yampah de l'Oregon;oregon-yampah;oregon-yampah;Plant;Plante;Oregon yampah;Yampah de l'Oregon;2.04951607
+556;European anchovy;Anchois d'Europe;#anchovy-european#;#anchovy-european#;Fish;Poisson;European anchovy;Anchois d'Europe;11.98697382
+557;European chestnut;Châtaigne européenne;chestnut-european;châtaigne-européenne;Nuts & Seed;Noix et graines;European chestnut;Châtaigne européenne;3.770625789
+558;Turbot;Turbot;turbot;turbot;Fish;Poisson;Turbot;Turbot;14.39088454
+559;Fireweed;Épilobe;fireweed;épilobe;Herb;Herbe;Fireweed;Épilobe;0.881959945
+560;Florida pompano;Pompano de Floride;pompano;pompano;Fish;Poisson;Florida pompano;Pompano de Floride;13.75742921
+561;Ginkgo nuts;Noix de ginkgo;nut-ginkgo;noix-ginkgo;Nuts & Seed;Noix et graines;Ginkgo nuts;Noix de ginkgo;2.942315769
+562;Greylag goose;Oie cendrée;goose;oie;Meat;Viande;Greylag goose;Oie cendrée;5.264816328
+563;Greenland halibut;Flétan du Groenland;#halibut-greenland#;#flétan du Groenland;Fish;Poisson;Greenland halibut;Flétan du Groenland;17.5045654
+564;Groundcherry;Groseille à maquereau;groundcherry;cerisier de terre;Fruit;Fruit;Groundcherry;Groseille à maquereau;1.272342204
+565;Grouper;Mérou;grouper;mérou;Fish;Poisson;Grouper;Mérou;14.56170764
+566;Haddock;Haddock;#haddock#;#haddock#;Fish;Poisson;Haddock;Haddock;7.348302251
+567;Hippoglossus;Hippoglosse;hippoglossus;hippoglosse;Fish;Poisson;Hippoglossus;Hippoglosse;13.37351649
+568;Horse;Cheval;horse;cheval;Meat;Viande;Horse;Cheval;8.686240418
+569;Hyacinth bean;Haricot jacinthe;bean-hyacinth;haricot-hyacinthe;Legume;Légumineuse;Hyacinth bean;Haricot jacinthe;0.889459984
+570;Irish moss;Mousse d'Irlande;moss-irish;mousse-irish;Seafood;Fruits de mer;Irish moss;Mousse d'Irlande;7.61993092
+571;Pacific jack mackerel;Maquereau du Pacifique;#mackerel-pacific#;#mackerel-pacifique#;Fish;Poisson;Pacific jack mackerel;Maquereau du Pacifique;11.15066063
+572;Japanese chestnut;Châtaigne du Japon;chestnut-japanese;châtaigne-japonaise;Nuts & Seed;Noix et graines;Japanese chestnut;Châtaigne du Japon;1.663914217
+573;Jerusalem artichoke;Topinambour;artichoke-jerusalen;artichaut-jérusalen;Vegetable;Légume;Jerusalem artichoke;Topinambour;1.999115932
+574;Jujube;Jujube;jujube;jujube;Fruit;Fruit;Jujube;Jujube;1.096642179
+575;Jute;Jute;jute;jute;Plant;Plante;Jute;Jute;0.961722173
+576;Kale;Chou frisé;kale;chou frisé;Vegetable;Légume;Kale;Chou frisé;1.815003679
+577;King mackerel;Maquereau royal;#mackerel-king#;#maquereau-roi#;Fish;Poisson;King mackerel;Maquereau royal;9.066481268
+578;Lambsquarters;Chénopode blanc;lambsquarters;chénopode blanc;Plant;Plante;Lambsquarters;Chénopode blanc;1.687786641
+579;Leather chiton;Chiton cuir;chiton;chiton;Seafood;Fruits de mer;Leather chiton;Chiton cuir;7.90171225
+580;Common ling;Lingue commune;ling;lingue;Fish;Poisson;Common ling;Lingue commune;15.48437704
+581;Lingcod;Morue-lingue;lingcod;morue-lingue;Fish;Poisson;Lingcod;Morue-lingue;11.64666597
+582;White lupine;Lupin blanc;lupine-white;lupin-blanc;Plant;Plante;White lupine;Lupin blanc;2.694236229
+583;Malabar spinach;Epinard de Malabar;spinach-malabar;épinard-malabar;Vegetable;Légume;Malabar spinach;Epinard de Malabar;1.782935006
+584;Mammee apple;Pomme Mammee;apple-mammee;pomme-mammee;Fruit;Fruit;Mammee apple;Pomme Mammee;1.05294882
+585;Purple mangosteen;Mangoustan pourpre;mangosteen;mangoustan;Fruit;Fruit;Purple mangosteen;Mangoustan pourpre;1.180171074
+586;Alpine sweetvetch;Mélilot des Alpes;sweetvetch;mélilot;Plant;Plante;Alpine sweetvetch;Mélilot des Alpes;1.790750812
+587;Milkfish;Milkfish;milk-fish;lait-poisson;Fish;Poisson;Milkfish;Milkfish;16.29136625
+588;Monkfish;Baudroie;monk-fish;moine-poisson;Fish;Poisson;Monkfish;Baudroie;9.61093076
+589;Moose;Orignal;moose;élan;Meat;Viande;Moose;Orignal;9.842504952
+590;Moth bean;Haricot papillon;bean-moth;mite à haricots;Legume;Légumineuse;Moth bean;Haricot papillon;1.136378056
+591;Mountain yam;Moutarde de montagne;yam-mountain;igname-montagne;Vegetable;Légume;Mountain yam;Moutarde de montagne;1.671558067
+592;Striped mullet;Mouton rayé;mullet;mulet;Fish;Poisson;Striped mullet;Mouton rayé;9.52477502
+593;Muskrat;Rat musqué;muskrat;rat musqué;Meat;Viande;Muskrat;Rat musqué;14.1358649
+594;New Zealand spinach;Epinard de Nouvelle-Zélande;spinach-new-zealand;épinard-new-zealand;Vegetable;Légume;New Zealand spinach;Epinard de Nouvelle-Zélande;0.837776718
+595;Nopal;Nopal;nopal;nopal;Plant;Plante;Nopal;Nopal;2.896215552
+596;Ocean pout;Tacaud de mer;#pout-ocean#;#pout-ocean#;Fish;Poisson;Ocean pout;Tacaud de mer;7.934304784
+597;North Pacific giant octopus;Pieuvre géante du Pacifique Nord;#octopus-pacific#;#octopus-pacific#;Seafood;Fruits de mer;North Pacific giant octopus;Pieuvre géante du Pacifique Nord;13.40433079
+598;Ohelo berry;Ohelo berry;berry-ohelo;baie-ohelo;Fruit;Fruit;Ohelo berry;Ohelo berry;1.789915641
+600;Opossum;Opossum;opossum;opossum;Meat;Viande;Opossum;Opossum;5.113008448
+601;Ostrich;Autruche;ostrich;autruche;Meat;Viande;Ostrich;Autruche;14.14697645
+602;Spotted seal;Phoque tacheté;#seal-spotted#;#seal-spotted#;Seafood;Fruits de mer;Spotted seal;Phoque tacheté;11.6459987
+603;Pacific herring;Hareng du Pacifique;#herring-pacific#;#hareng-pacifique#;Fish;Poisson;Pacific herring;Hareng du Pacifique;13.28471928
+604;Pacific rockfish;Sébaste du Pacifique;rockfish;sébaste;Fish;Poisson;Pacific rockfish;Sébaste du Pacifique;14.90802563
+606;Common persimmon;Kaki commun;#persimmon-common#;#persimmon-common#;Fruit;Fruit;Common persimmon;Kaki commun;1.016997735
+607;Pheasant;Faisan;pheasant;faisan;Meat;Viande;Pheasant;Faisan;7.028544362
+608;Northern pike;Brochet du Nord;pike-northern;brochet-nord;Fish;Poisson;Northern pike;Brochet du Nord;11.72605295
+609;Pili nut;Noix de pili;nut-pili;noix-pili;Nuts & Seed;Noix et graines;Pili nut;Noix de pili;3.557060524
+610;Colorado pinyon;Pinsons du Colorado;pinyon;pinyon;Plant;Plante;Colorado pinyon;Pinsons du Colorado;1.089187887
+611;Pitanga;Pitanga;pitanga;pitanga;Fruit;Fruit;Pitanga;Pitanga;0.780557858
+612;French plantain;Plantain français;plantain-french;plantain-français;Plant;Plante;French plantain;Plantain français;0.772950161
+613;American pokeweed;Pokeweed américain;pokeweed-american;pokeweed-american;Herb;Herbe;American pokeweed;Pokeweed américain;0.968000748
+614;Polar bear;Ours polaire;#bear-polar#;#ours-polaire;Meat;Viande;Polar bear;Ours polaire;12.68036188
+615;Prairie turnip;Navet des prairies;turnip-prairie;navet-prairie;Vegetable;Légume;Prairie turnip;Navet des prairies;1.208266122
+616;Quinoa;Quinoa;quinoa;quinoa;Cereal;Céréales;Quinoa;Quinoa;2.202860917
+617;European rabbit;Lapin d'Europe;#rabbit-european#;#Lapin-européen#;Meat;Viande;European rabbit;Lapin d'Europe;12.94189068
+618;Raccoon;Raton laveur;raccoon;raton laveur;Meat;Viande;Raccoon;Raton laveur;13.88776575
+619;Rainbow smelt;Éperlan arc-en-ciel;#smelt-rainbow#;#smelt-rainbow#;Fish;Poisson;Rainbow smelt;Éperlan arc-en-ciel;10.66289918
+620;Rainbow trout;Truite arc-en-ciel;#trout-rainbow#;#trout-arc-en-ciel#;Fish;Poisson;Rainbow trout;Truite arc-en-ciel;11.57489267
+621;Malabar plum;Prune de Malabar;plum-malabar;prune-malabar;Fruit;Fruit;Malabar plum;Prune de Malabar;0.814056879
+622;Rose hip;Cynorhodon;Rose-hip;Cynorhodon;Fruit;Fruit;Rose hip;Cynorhodon;0.514100907
+623;Roselle;Roselle;roselle;roselle;Herb;Herbe;Roselle;Roselle;0.937829021
+624;Orange roughy;Hoplostète orange;orange-roughy;orange-rugueux;Fish;Poisson;Orange roughy;Hoplostète orange;7.332250947
+625;Sablefish;Morue charbonnière;sable-fish;zibeline-poisson;Fish;Poisson;Sablefish;Morue charbonnière;11.06209992
+626;Pink salmon;Saumon rose;#salmon-pink#;#salmon-pink#;Fish;Poisson;Pink salmon;Saumon rose;12.95003009
+627;Chum salmon;Saumon kéta;#salmon-chum#;#salmon-chum#;Fish;Poisson;Chum salmon;Saumon kéta;12.10882287
+628;Coho salmon;Le saumon coho;#salmon-coho#;#saumon-coho#;Fish;Poisson;Coho salmon;Le saumon coho;17.39641848
+629;Sockeye salmon;Saumon sockeye;#salmon-sockeye#;#saumon-sockeye#;Fish;Poisson;Sockeye salmon;Saumon sockeye;12.77960293
+630;Chinook salmon;Le saumon Chinook;#salmon-chinook#;#saumon-chinook#;Fish;Poisson;Chinook salmon;Le saumon Chinook;14.3989138
+631;Atlantic salmon;Saumon atlantique;#salmon-atlantic#;#saumon-atlantique#;Fish;Poisson;Atlantic salmon;Saumon atlantique;16.81017892
+632;Salmonberry;Salmonberry;salmon-berry;saumon-mûre;Fruit;Fruit;Salmonberry;Salmonberry;0.760597293
+633;Common salsify;Salsifis commun;salsify;salsifis;Plant;Plante;Common salsify;Salsifis commun;1.677690436
+634;Spanish mackerel;Maquereau espagnol;#mackerel-spanish#;#mackerel-espagnol#;Fish;Poisson;Spanish mackerel;Maquereau espagnol;13.00559313
+635;Pacific sardine;Sardine du Pacifique;sardine;sardine;Fish;Poisson;Pacific sardine;Sardine du Pacifique;16.60077841
+636;Scup;Morue charbonnière;scup;scup;Fish;Poisson;Scup;Morue charbonnière;8.839162447
+637;Sea cucumber;Concombre de mer;cucumber-sea;concombre-mer;Seafood;Fruits de mer;Sea cucumber;Concombre de mer;10.71366398
+638;Steller sea lion;Otarie de Steller;sea-lion;oignon de mer;Seafood;Fruits de mer;Steller sea lion;Otarie de Steller;11.94907989
+639;Bearded seal;Phoque barbu;#seal-bearded#;#phoque barbu#;Seafood;Fruits de mer;Bearded seal;Phoque barbu;11.38901177
+640;Ringed seal;Phoque annelé;#seal-ringed#;#phoque annelé#;Seafood;Fruits de mer;Ringed seal;Phoque annelé;6.664209866
+641;Sea trout;Truite de mer;#trout-sea#;#trout-mer#;Fish;Poisson;Sea trout;Truite de mer;6.091654016
+642;Sesbania flower;Fleur de Sesbania;sesbania-flower;fleur de sesbania;Flower;Fleur;Sesbania flower;Fleur de Sesbania;1.31704082
+643;American shad;Alose savoureuse;shad;alose;Fish;Poisson;American shad;Alose savoureuse;12.47870826
+644;Shark;Requin;shark;requin;Fish;Poisson;Shark;Requin;9.617079818
+645;Sheefish;Poisson de fond;sheefish;sheefish;Fish;Poisson;Sheefish;Poisson de fond;12.50515391
+646;Sheepshead;Tête de mouton;sheepshead;tête de mouette;Fish;Poisson;Sheepshead;Tête de mouton;8.767381198
+647;Hedge mustard;Moutarde des haies;mustard-hedge;moutarde-hedge;Vegetable;Légume;Hedge mustard;Moutarde des haies;1.229650123
+648;Snapper;Vivaneau;snapper;vivaneau;Fish;Poisson;Snapper;Vivaneau;7.509309438
+649;Spelt;Epeautre;spelt;épeautre;Cereal;Céréales;Spelt;Epeautre;2.641094922
+650;Spirulina;Spiruline;spirulina;spiruline;Additive;Condiment;Spirulina;Spiruline;1.372932792
+651;Squab;Écureuil;squab;pigeonneau;Meat;Viande;Squab;Écureuil;11.48372013
+652;Squirrel;Écureuil;squirrel;écureuil;Meat;Viande;Squirrel;Écureuil;9.341194697
+653;Greater sturgeon;Grand esturgeon;#sturgeon-greater#;#esturgeon-gros;Fish;Poisson;Greater sturgeon;Grand esturgeon;8.390289511
+654;White sucker;Meunier noir;sucker-white;meunier-blanc;Fish;Poisson;White sucker;Meunier noir;9.990529888
+655;Pumpkinseed sunfish;Crapet sac-à-lait;sunfish;crapet-soleil;Fish;Poisson;Pumpkinseed sunfish;Crapet sac-à-lait;16.48684974
+656;Swordfish;Espadon;swordfish;espadon;Fish;Poisson;Swordfish;Espadon;17.29605811
+657;Taro;Taro;taro;taro;Vegetable;Légume;Taro;Taro;1.510567357
+658;Teff;Teff;teff;teff;Herb;Herbe;Teff;Teff;0.622407668
+659;Tilefish;Tilefish;tile-fish;tuile-poisson;Fish;Poisson;Tilefish;Tilefish;8.959600676
+660;Mexican groundcherry;Cachemire mexicain;groundcherry-mexican;cerise de terre-mexicaine;Fruit;Fruit;Mexican groundcherry;Cachemire mexicain;0.521964829
+661;Towel gourd;Courge de serviette;gourd-towel;gourde-towel;Vegetable;Légume;Towel gourd;Courge de serviette;1.689346615
+662;Salmonidae;Salmonidae;#salmonidae#;#salmonidae#;Fish;Poisson;Salmonidae;Salmonidae;12.33429927
+663;Walleye;Doré jaune;walleye;doré jaune;Fish;Poisson;Walleye;Doré jaune;10.4019532
+664;Alaska pollock;Colin d'Alaska;#pollock-alaska#;#pollock-alaska#;Fish;Poisson;Alaska pollock;Colin d'Alaska;17.26050324
+665;Whelk;Buccin;whelk;buccin;Seafood;Fruits de mer;Whelk;Buccin;11.47100888
+667;Broad whitefish;Corégone large;#whitefish-broad#;#poisson-blanc-rouge#;Fish;Poisson;Broad whitefish;Corégone large;11.85366021
+668;Whitefish;Corégone;#whitefish#;#poissonblanc#;Fish;Poisson;Whitefish;Corégone;12.72434518
+669;Whiting;Merlan;#whiting#;#whiting#;Fish;Poisson;Whiting;Merlan;13.79026711
+670;Wild rice;Riz sauvage;rice-wild;riz sauvage;Cereal;Céréales;Wild rice;Riz sauvage;3.941364933
+671;Tea leaf willow;Saule à feuilles de thé;tea-leaf-willow;thé-feuille de saule;Herb;Herbe;Tea leaf willow;Saule à feuilles de thé;0.517352994
+672;Winged bean;Haricot ailé;bean-winged;haricot à ailes;Legume;Légumineuse;Winged bean;Haricot ailé;1.084731868
+673;Yam;Igname;yam;igname;Vegetable;Légume;Yam;Igname;1.554675553
+674;Jicama;Jicama;jicama;jicama;Vegetable;Légume;Jicama;Jicama;1.17726954
+675;Yautia;Yautia;yautia;yautia;Plant;Plante;Yautia;Yautia;1.615503878
+676;Yellowfin tuna;Thon à nageoires jaunes;#tuna-yellowfin#;#tuna-yellowfin#;Fish;Poisson;Yellowfin tuna;Thon à nageoires jaunes;15.15707861
+677;Yellowtail amberjack;Sériole à queue jaune;amberjack;sériole;Fish;Poisson;Yellowtail amberjack;Sériole à queue jaune;6.836464181
+678;Pollock;Goberge;#pollock#;#pollock#;Fish;Poisson;Pollock;Goberge;10.46711418
+679;Albacore tuna;Thon albacore;#tuna-albacore#;#tuna-albacore#;Fish;Poisson;Albacore tuna;Thon albacore;17.87665727
+680;Atlantic halibut;Flétan de l'Atlantique;#halibut-atlantic#;#halibut-atlantique#;Fish;Poisson;Atlantic halibut;Flétan de l'Atlantique;13.10563634
+682;Smelt;Éperlan;#smelt#;#éperlan#;Fish;Poisson;Smelt;Éperlan;13.60815723
+683;Clupeinae;Clupeinae;clupeinae;clupeinae;Fish;Poisson;Clupeinae;Clupeinae;8.769012603
+684;Spiny lobster;Homard épineux;#lobster-spiny#;#lobster-spiny#;Seafood;Fruits de mer;Spiny lobster;Homard épineux;13.57296604
+685;Black-eyed pea;Poison aux yeux noirs;pea-black-eyed;pois noir-yeux;Legume;Légumineuse;Black-eyed pea;Poison aux yeux noirs;0.676772494
+686;Deer;Chevreuil;#deer#;#deer#;Meat;Viande;Deer;Chevreuil;5.329921782
+687;Percoidei;Percoidei;percoidei;percoidei;Fish;Poisson;Percoidei;Percoidei;9.169238941
+688;Perciformes;Perciformes;perciformes;perciformes;Fish;Poisson;Perciformes;Perciformes;12.43166317
+690;Rabbit;Lapin;#rabbit#;#lapin#;Meat;Viande;Rabbit;Lapin;9.092414645
+691;Beefalo;Bœuf;beefalo;bœuf;Meat;Viande;Beefalo;Bœuf;12.24444344
+693;Bivalvia;Bivalvia;bivalvia;bivalves;Seafood;Fruits de mer;Bivalvia;Bivalvia;7.585105395
+694;Flatfish;Poissons plats;flatfish;poisson plat;Fish;Poisson;Flatfish;Poissons plats;11.37207138
+695;Walrus;Morses;walrus;morse;Seafood;Fruits de mer;Walrus;Morses;8.001833482
+696;Alaska wild rhubarb;Rhubarbe sauvage d'Alaska;rhubarb-alaska;rhubarbe-alaska;Plant;Plante;Alaska wild rhubarb;Rhubarbe sauvage d'Alaska;1.825352267
+697;Oriental wheat;Blé oriental;wheat-oriental;blé-oriental;Cereal;Céréales;Oriental wheat;Blé oriental;2.293339877
+698;Yardlong bean;Haricot long;bean-yardlong;haricot-long;Legume;Légumineuse;Yardlong bean;Haricot long;0.705258794
+699;Great horned owl;Grand-duc d'Amérique;owl;hibou;Meat;Viande;Great horned owl;Grand-duc d'Amérique;9.992989303
+700;Quail;Caille;quail;caille;Meat;Viande;Quail;Caille;5.880105714
+701;Boysenberry;Mûre de Boysen;boysenberry;mûre de Boysen;Fruit;Fruit;Boysenberry;Mûre de Boysen;0.534096586
+702;Rowal;Rowal;rowal;rollier;Plant;Plante;Rowal;Rowal;1.695775011
+703;Jew's ear;Oreille de juif;ear-jewâ€™s;oreille-jewâ€™s;Fungus;Champignon;Jew's ear;Oreille de juif;1.20804896
+704;Shiitake;Shiitake;shiitake;shiitake;Fungus;Champignon;Shiitake;Shiitake;2.124747285
+705;Purple laver;Lavande pourpre;laver;laver;Seafood;Fruits de mer;Purple laver;Lavande pourpre;11.87707391
+706;Wakame;Wakame;wakame;wakame;Seafood;Fruits de mer;Wakame;Wakame;7.85702277
+707;Enokitake;Enokitake;enokitake;enokitake;Fungus;Champignon;Enokitake;Enokitake;1.345067747
+708;Epazote;Epazote;epazote;épazote;Herb;Herbe;Epazote;Epazote;0.577086569
+709;Oyster mushroom;Pleurote en huître;mushroom-oyster;champignon-huître;Fungus;Champignon;Oyster mushroom;Pleurote en huître;1.944216566
+710;Cloud ear fungus;Champignon de l'oreille des nuages;ear-cloud;oreille-nuage;Fungus;Champignon;Cloud ear fungus;Champignon de l'oreille des nuages;1.103700658
+711;Maitake;Maitake;maitake;maitake;Fungus;Champignon;Maitake;Maitake;1.118377025
+712;Ostrich fern;Fougère d'autruche;ostrich-fern;fougère-autruche;Plant;Plante;Ostrich fern;Fougère d'autruche;1.860527278
+713;Spot croaker;Croque-mouche;#croaker-spot#;#croaker-spot#;Fish;Poisson;Spot croaker;Croque-mouche;14.67396222
+714;Sourdock;Sourdock;sourdock;sourdock;Herb;Herbe;Sourdock;Sourdock;0.928257131
+715;Tinda;Tinda;tinda;tinda;Vegetable;Légume;Tinda;Tinda;1.172640375
+716;Atlantic menhaden;Menhaden de l'Atlantique;menhaden;menhaden;Fish;Poisson;Atlantic menhaden;Menhaden de l'Atlantique;16.58366236
+717;Agave;Agave;agave;agave;Plant;Plante;Agave;Agave;0.674736073
+718;Narrowleaf cattail;Quenouille à feuilles étroites;cattail;quenouille;Herb;Herbe;Narrowleaf cattail;Quenouille à feuilles étroites;0.829783709
+719;Jellyfish;Méduse;jellyfish;méduse;Seafood;Fruits de mer;Jellyfish;Méduse;4.918820209
+720;Anchovy;Anchois;#anchovy#;#anchovy#;Fish;Poisson;Anchovy;Anchois;12.60321612
+721;Blue whiting;Merlan bleu;#whiting-blue#;#blanc-bleu#;Fish;Poisson;Blue whiting;Merlan bleu;13.09450869
+722;Carp bream;Carpe d'eau douce;bream;brème;Fish;Poisson;Carp bream;Carpe d'eau douce;8.542995597
+723;Chanterelle;Chanterelle;chanterelle;chanterelle;Fungus;Champignon;Chanterelle;Chanterelle;1.689490412
+724;Sturgeon;Esturgeon;#sturgeon#;#Esturgeon#;Fish;Poisson;Sturgeon;Esturgeon;9.711375407
+725;Charr;Omble;charr;omble;Fish;Poisson;Charr;Omble;15.38396143
+726;Common dab;Limande commune;dab;limande;Fish;Poisson;Common dab;Limande commune;8.159507386
+727;Spiny dogfish;Aiguillat commun;dogfish;roussette;Fish;Poisson;Spiny dogfish;Aiguillat commun;14.18691639
+728;Anatidae;Anatidae;anatidae;anatidae;Meat;Viande;Anatidae;Anatidae;14.61143018
+729;Anguilliformes;Anguilliformes;anguilliformes;anguilliformes;Fish;Poisson;Anguilliformes;Anguilliformes;9.000893213
+730;True frog;Grenouille véritable;frog;grenouille;Meat;Viande;True frog;Grenouille véritable;11.50826113
+731;Garfish;Garfish;garfish;orphie;Fish;Poisson;Garfish;Garfish;14.18258214
+732;Gadiformes;Gadiformes;gadiformes;gadiformes;Fish;Poisson;Gadiformes;Gadiformes;14.54750684
+733;Mountain hare;Lièvre variable;hare;lièvre;Meat;Viande;Mountain hare;Lièvre variable;8.727181166
+734;Lake trout;Truite grise;#trout-lake#;#trout-lake#;Fish;Poisson;Lake trout;Truite grise;12.85188965
+735;Lemon sole;Limande sole;lemon-sole;semelle de citron;Fish;Poisson;Lemon sole;Limande sole;9.344519861
+736;Lumpsucker;Lumpsucker;lumpsucker;lombricomane;Fish;Poisson;Lumpsucker;Lumpsucker;12.69250769
+737;Scombridae;Scombridae;scombridae;scombridae;Fish;Poisson;Scombridae;Scombridae;8.016448134
+738;Norway haddock;Églefin de Norvège;#haddock-norway#;#haddock-norway#;Fish;Poisson;Norway haddock;Églefin de Norvège;13.21710006
+739;Norway pout;Tacaud norvégien;#pout-norway#;#pout-norway#;Fish;Poisson;Norway pout;Tacaud norvégien;9.985570157
+740;Oil palm;Palmier à huile;palm-oil;huile de palme;Plant;Plante;Oil palm;Palmier à huile;1.181599692
+741;Sago palm;Palme de sagou;palm-sago;palmier-sago;Plant;Plante;Sago palm;Palme de sagou;1.415417588
+742;Persimmon;Persimmon;#persimmon#;#persimmon#;Fruit;Fruit;Persimmon;Persimmon;0.6943299
+743;Pikeperch;Sandre;#perch-pike#;#perch-pike#;Fish;Poisson;Pikeperch;Sandre;12.88983505
+744;Pleuronectidae;Pleuronectidae;pleuronectidae;pleuronectidae;Fish;Poisson;Pleuronectidae;Pleuronectidae;17.60979948
+745;Rock ptarmigan;Lagopède des rochers;ptarmigan;lagopède;Meat;Viande;Rock ptarmigan;Lagopède des rochers;3.001538583
+746;Pacific ocean perch;Perche du Pacifique;#perch-pacific#;#perche-pacifique#;Fish;Poisson;Pacific ocean perch;Perche du Pacifique;15.59644804
+747;Black salsify;Salsifis noir;salsify-black;salsifis noir;Plant;Plante;Black salsify;Salsifis noir;2.289052296
+748;True seal;Phoque véritable;#seal#;#phoque#;Seafood;Fruits de mer;True seal;Phoque véritable;12.74507451
+749;Red algae;Algues rouges;algae-red;algue-rouge;Seafood;Fruits de mer;Red algae;Algues rouges;10.70232392
+750;Kombu;Kombu;kombu;kombu;Seafood;Fruits de mer;Kombu;Kombu;9.202191636
+751;Snail;Escargot;snail;escargot;Meat;Viande;Snail;Escargot;8.15961212
+752;True sole;Vraie sole;sole;sole;Fish;Poisson;True sole;Vraie sole;9.544927842
+753;Catfish;Poisson-chat;#catfish#;#poisson-chat;Fish;Poisson;Catfish;Poisson-chat;6.129275279
+754;Thistle;Chardon;thistle;chardon;Plant;Plante;Thistle;Chardon;1.389417007
+755;Common Tuna;Thon commun;#tuna#;#thon;Fish;Poisson;Common Tuna;Thon commun;9.875761857
+756;Cetacea;Cetacea;cetacea;cétacés;Fish;Poisson;Cetacea;Cetacea;17.45260591
+757;Columbidae;Columbidae;columbidae;columbidae;Meat;Viande;Columbidae;Columbidae;13.9907849
+758;Conch;Conque;conch;conque;Fish;Poisson;Conch;Conque;15.19119676
+759;Berry wine;Vin de baies;berry-wine;baies-vin;Beverage Alcoholic;Boisson alcoolisée;Berry wine;Vin de baies;10.09925742
+762;Vodka;Vodka;vodka;vodka;Beverage Alcoholic;Boisson alcoolisée;Vodka;Vodka;7.856869425
+763;Ice cream;Glace;ice cream;crème glacée;Dish;Plat;Ice cream;Glace;2.777148357
+764;Vermouth;Vermouth;vermouth;vermouth;Beverage Alcoholic;Boisson alcoolisée;Vermouth;Vermouth;5.532288928
+765;Madeira wine;Vin de Madère;madeira;madère;Beverage Alcoholic;Boisson alcoolisée;Madeira wine;Vin de Madère;14.05637977
+766;Nougat;Nougat;nougat;nougat;Dish;Plat;Nougat;Nougat;3.28680167
+767;Toffee;Caramel;toffee;caramel;Dish;Plat;Toffee;Caramel;3.740669998
+768;Cake;Gâteau;cake;gâteau;Dish;Plat;Cake;Gâteau;3.426442338
+769;Pizza;Pizza;pizza;pizza;Dish;Plat;Pizza;Pizza;4.651372696
+770;Ymer;Ymer;ymer;ymer;Dairy;Produits laitiers;Ymer;Ymer;1.494728319
+772;Pastry;Pâtisserie;pastry;pâtisserie;Dish;Plat;Pastry;Pâtisserie;5.133935317
+773;DragÌ©e;DragÌ©e;dragÌ©e;dragÌ©e;Dish;Plat;DragÌ©e;DragÌ©e;2.837212689
+774;Chewing gum;Chewing-gum;chewing gum;chewing-gum;Dish;Plat;Chewing gum;Chewing-gum;4.023497003
+775;Marzipan;Massepain;marzipan;pâte d'amande;Dish;Plat;Marzipan;Massepain;5.086136269
+776;Salad dressing;Sauce salade;salad dressing;vinaigrette;Dish;Plat;Salad dressing;Sauce salade;5.138899586
+778;Salt;Sel;salt;sel;Additive;Condiment;Salt;Sel;1.134016159
+780;Cream;Crème;cream;crème;Dairy;Produits laitiers;Cream;Crème;1.783856081
+781;Sugar;Sucre;sugar;sucre;Additive;Condiment;Sugar;Sucre;1.190339336
+782;Sausage;Saucisse;sausage;saucisse;Dish;Viande;Sausage;Saucisse;5.869663255
+783;Meatball;Boulette de viande;meatball;boulette de viande;Dish;Viande;Meatball;Boulette de viande;4.174147815
+784;Pate;Pate;pate;pâté;Dish;Plat;Pate;Pate;4.364396785
+786;Meat bouillon;Bouillon de viande;bouillon;bouillon;Dish;Plat;Meat bouillon;Bouillon de viande;3.653746252
+788;Whey;Lactosérum;whey;petit-lait;Dairy;Produits laitiers;Whey;Lactosérum;2.684801557
+789;Casein;Caséine;casein;caséine;Additive;Condiment;Casein;Caséine;1.274201048
+791;Leavening agent;Agent levant;leavening agent;agent levant;Additive;Condiment;Leavening agent;Agent levant;0.501288878
+792;Marshmallow;Guimauve;marshmallow;guimauve;Bakery;Boulangerie;Marshmallow;Guimauve;2.880785534
+793;Gelatin;Gélatine;gelatin;gélatine;Additive;Condiment;Gelatin;Gélatine;0.743318472
+794;Water;Eau;water, ice;eau, glace;Additive;Condiment;Water;Eau;0.622766746
+796;Milk Human;Lait Humain;human milk;lait humain;Dairy;Produits laitiers;Milk Human;Lait Humain;2.784178896
+799;Dumpling;Boulette;dumpling;boulette;Dish;Viande;Dumpling;Boulette;3.471279803
+800;Soup;Soupe;soup;soupe;Dish;Plat;Soup;Soupe;4.924370854
+803;Syrup;Sirop;syrup;sirop;Additive;Condiment;Syrup;Sirop;1.042209492
+805;Remoulade;Rémoulade;remoulade;rémoulade;Dish;Condiment;Remoulade;Rémoulade;4.045888299
+806;Chocolate spread;Pâte à tartiner au chocolat;chocolate spread;pâte à tartiner au chocolat;Plant;Plante;Chocolate spread;Pâte à tartiner au chocolat;2.067834525
+807;Fruit gum;Gomme aux fruits;fruit gum;gomme de fruit;Dish;Plat;Fruit gum;Gomme aux fruits;2.608248676
+810;Meringue;Meringue;meringue;meringue;Bakery;Boulangerie;Meringue;Meringue;1.45594853
+814;Cocoa butter;Beurre de cacao;cocoa butter;beurre de cacao;Plant;Plante;Cocoa butter;Beurre de cacao;1.00842309
+815;Cocoa powder;Poudre de cacao;cocoa-powder;poudre de cacao;Plant;Plante;Cocoa powder;Poudre de cacao;2.80579685
+817;Chocolate;Chocolat;chocolate;chocolat;Plant;Plat;Chocolate;Chocolat;1.991112965
+818;Hot chocolate;Chocolat chaud;chocolate-hot, chocolate-heated;chocolat-chaud, chocolat-chauffé;Beverage;Boisson;Hot chocolate;Chocolat chaud;1.874594816
+820;Kefir;Kéfir;kefir;kéfir;Dairy;Produits laitiers;Kefir;Kéfir;4.159389713
+822;Miso;Miso;miso;miso;Additive;Condiment;Miso;Miso;1.196347462
+823;Tofu;Tofu;tofu;tofu;Plant;Plat;Tofu;Tofu;1.660452321
+824;Zwieback;Zwieback;zwieback;zwieback;Dish;Boulangerie;Zwieback;Zwieback;5.311921043
+825;Roe;Roe;roe;œufs de poisson;Fish;Poisson;Roe;Roe;7.142869936
+826;Cichlidae;Cichlidae;cichlidae;cichlidés;Fish;Poisson;Cichlidae;Cichlidae;6.757181411
+827;Icing;Glaçage;icing;glaçage;Additive;Condiment;Icing;Glaçage;0.790478886
+828;Snack bar;Snack bar;snack bar;snack;Dish;Plat;Snack bar;Snack bar;3.362109939
+829;Green turtle;Tortue verte;turtle;tortue;Meat;Viande;Green turtle;Tortue verte;13.58019685
+831;Burrito;Burrito;burrito;burrito;Dish;Plat;Burrito;Burrito;2.838858045
+832;Hamburger;Hamburger;hamburger;hamburger;Dish;Plat;Hamburger;Hamburger;4.397204333
+834;Taco;Taco;taco;taco;Dish;Plat;Taco;Taco;2.775519716
+835;Tortilla;Tortilla;tortilla;tortilla;Dish;Plat;Tortilla;Tortilla;4.725980307
+836;Nachos;Nachos;nachos;nachos;Dish;Plat;Nachos;Nachos;5.643233489
+837;Salad;Salade;salad;salade;Dish;Plat;Salad;Salade;3.007373859
+839;Dulce de leche;Dulce de leche;dulce de leche;dulce de leche;Dairy;Produits laitiers;Dulce de leche;Dulce de leche;3.646499765
+840;Topping;Garniture;topping;garniture;Additive;Condiment;Topping;Garniture;1.055850962
+841;Sweet custard;Flan sucré;custard;crème anglaise;Dairy;Produits laitiers;Sweet custard;Flan sucré;1.456357402
+842;Egg roll;Roulé aux oeufs;egg roll;nems;Dish;Plat;Egg roll;Roulé aux oeufs;3.070368484
+843;Heart of palm;Coeur de palmier;heart of palm;cœur de palmier;Vegetable;Légume;Heart of palm;Coeur de palmier;1.298660636
+845;Potato chip;Chip de pomme de terre;potato-chip;pommes de terre-frites;Bakery;Boulangerie;Potato chip;Chip de pomme de terre;2.665856493
+846;Tortilla chip;Tortilla chip;tortilla-chip;tortilla-chip;Bakery;Boulangerie;Tortilla chip;Tortilla chip;2.685087725
+847;Corn chip;Chip de maïs;corn-chip;puce de maïs;Bakery;Boulangerie;Corn chip;Chip de maïs;1.066590538
+848;Hibiscus tea;Thé à l'hibiscus;#tea-hibiscus#;#tea-hibiscus#;Beverage;Boisson;Hibiscus tea;Thé à l'hibiscus;1.484547554
+849;Stew;Ragoût;stew;ragoût;Dish;Plat;Stew;Ragoût;3.253691185
+850;Gelatin dessert;Dessert à la gélatine;gelatin;gélatine;Additive;Condiment;Gelatin dessert;Dessert à la gélatine;0.501630822
+851;Junket;Junket;junket;junket;Dairy;Produits laitiers;Junket;Junket;1.288884541
+852;Falafel;Falafel;falafel;falafel;Dish;Plat;Falafel;Falafel;5.112637007
+853;Frybread;Pain frit;#fry-bread#;#fry-bread#;Dish;Plat;Frybread;Pain frit;3.185365022
+855;Lasagna;Lasagnes;lasagna;lasagnes;Dish;Plat;Lasagna;Lasagnes;3.505509645
+856;Morchella;Morchella;morchella;morchella;Fungus;Champignon;Morchella;Morchella;2.460199784
+857;Pancake;Pancake;pancake;crêpe;Dish;Boulangerie;Pancake;Pancake;4.040698849
+858;Pectin;Pectine;pectin;pectine;Additive;Condiment;Pectin;Pectine;0.741376805
+859;Pudding;Pudding;pudding;pudding;Dish;Plat;Pudding;Pudding;3.733064408
+860;Waffle;Gaufre;waffle;gaufre;Dish;Boulangerie;Waffle;Gaufre;3.806954448
+861;Soy milk;Lait de soja;soy-milk, soya-milk;soja-laiton, soja-laiton;Beverage;Boisson;Soy milk;Lait de soja;0.862150397
+862;Meatloaf;Pain de viande;meat-loaf;viande-pain;Dish;Boulangerie;Meatloaf;Pain de viande;3.437809851
+863;Cocktail;Cocktail;cocktail;cocktail;Beverage;Boisson;Cocktail;Cocktail;1.612734517
+864;Couscous;Couscous;couscous;couscous;Dish;Plat;Couscous;Couscous;5.699696636
+865;Bulgur;Boulgour;bulgur;boulgour;Cereal;Céréales;Bulgur;Boulgour;3.859986231
+867;Coffee mocha;Café moka;mocha;moka;Beverage;Boisson;Coffee mocha;Café moka;1.242959355
+868;Chimichanga;Chimichanga;chimichanga;chimichanga;Dish;Plat;Chimichanga;Chimichanga;5.978228174
+869;Semolina;Semoule;semolina, sooji;semoule, sooji;Cereal;Céréales;Semolina;Semoule;3.045242914
+870;Tapioca pearl;Tapioca perlé;tapioca;tapioca;Vegetable;Légume;Tapioca pearl;Tapioca perlé;0.906888345
+871;Tostada;Tostada;tostada;tostada;Dish;Plat;Tostada;Tostada;3.37831072
+872;Quesadilla;Quesadilla;quesadilla;quesadilla;Dish;Plat;Quesadilla;Quesadilla;3.275241482
+873;Baked potato;Pomme de terre au four;potato-baked;pomme de terre au four;Dish;Plat;Baked potato;Pomme de terre au four;3.743032933
+874;Hot dog;Hot dog;hot-dog;hot-dog;Dish;Plat;Hot dog;Hot dog;5.11166478
+875;Spread;Tartinade;spread;tartinade;Additive;Condiment;Spread;Tartinade;0.809327348
+876;Enchilada;Enchilada;enchilada;enchilada;Dish;Plat;Enchilada;Enchilada;3.55365993
+880;Ketchup;Ketchup;#ketchup#;#ketchup#;Additive;Condiment;Ketchup;Ketchup;1.25289222
+882;Adobo;Adobo;#adobo#;#adobo#;Dish;Viande;Adobo;Adobo;3.648414843
+884;Horned melon;Melon cornu;melon-horned;corne de melon;Fruit;Fruit;Horned melon;Melon cornu;0.809786718
+885;Hushpuppy;Hushpuppy;hushpuppy;hushpuppy;Dish;Plat;Hushpuppy;Hushpuppy;5.361784273
+886;Fruit juice;Jus de fruits;fruit juice;jus de fruits;Beverage;Boisson;Fruit juice;Jus de fruits;0.944782243
+887;Relish;Relish;relish;relish;Dish;Plat;Relish;Relish;5.976676559
+889;Fruit salad;Salade de fruits;fruit salad;salade de fruits;Dish;Plat;Fruit salad;Salade de fruits;5.055242422
+890;Soy yogurt;Yogourt de soja;soy yogurt, soya yogurt;yogourt de soja, yogourt de soja;Plant;Plante;Soy yogurt;Yogourt de soja;1.152291169
+893;Cold cut;Coupe froide;cold cut;coupe froide;Dish;Plat;Cold cut;Coupe froide;2.601824823
+894;Mixed nuts;Noix mélangées;mixed nut;noix mélangées;Nuts & Seed;Noix et graines;Mixed nuts;Noix mélangées;2.461926433
+895;Babassu palm;Palmier babassu;palm-babassu;palme-babassu;Plant;Plante;Babassu palm;Palmier babassu;0.608467479
+897;Shea tree;Karité;shea;karité;Plant;Plante;Shea tree;Karité;2.656927597
+898;Oil-seed Camellia;Camélia oléagineux;camellia;camélia;Plant;Plante;Oil-seed Camellia;Camélia oléagineux;2.482971895
+899;Ucuhuba;Ucuhuba;ucuhuba;ucuhuba;Plant;Plante;Ucuhuba;Ucuhuba;2.427128922
+900;Phyllo dough;Pâte phyllo;#phyllo#;#phyllo#;Bakery;Boulangerie;Phyllo dough;Pâte phyllo;2.174906108
+901;Cooking oil;Huile de cuisson;#cooking oil#;#huile de cuisson#;Additive;Condiment;Cooking oil;Huile de cuisson;0.947661141
+902;Pie crust;Croûte à tarte;#pie-crust#;#pie-croute#;Bakery;Boulangerie;Pie crust;Croûte à tarte;1.70681016
+904;Pie;Tarte;pie;tarte;Dish;Plat;Pie;Tarte;4.998546127
+905;Shortening;Shortening;shortening;shortening;Additive;Condiment;Shortening;Shortening;1.425792624
+906;Soy cream;Crème de soja;#soy cream#;#crème soja;Dish;Huile essentielle;Soy cream;Crème de soja;3.251710037
+907;Ice cream cone;Cornet de crème glacée;ice cream cone;cornet de crème glacée;Dish;Plat;Ice cream cone;Cornet de crème glacée;4.933670685
+908;Molasses;Mélasse;molasses, treacle;mélasse, mélasse;Additive;Condiment;Molasses;Mélasse;1.189367589
+909;Nance;Nance;nance;nance;Fruit;Fruit;Nance;Nance;0.591221994
+911;Natto;Natto;natto;natto;Dish;Épice;Natto;Natto;4.843680187
+912;Ravioli;Ravioli;ravioli;ravioli;Dish;Plat;Ravioli;Ravioli;5.719472121
+913;Scrapple;Scrapple;scrapple;scrapple;Dish;Plat;Scrapple;Scrapple;4.964223831
+915;Succotash;Succotash;succotash;succotash;Dish;Plat;Succotash;Succotash;5.933714629
+916;Tamale;Tamale;tamale;tamale;Dish;Plat;Tamale;Tamale;4.544383476
+917;Rice cake;Gâteau de riz;#rice-cake#;#rice-cake#;Dish;Plat;Rice cake;Gâteau de riz;3.017888558
+918;Tree fern;Fougère arboricole;fern-tree;arbre de fougère;Plant;Plante;Tree fern;Fougère arboricole;0.724368106
+919;Evaporated milk;Lait évaporé;milk-evaporated;lait-évaporé;Dairy;Produits laitiers;Evaporated milk;Lait évaporé;4.097656987
+920;Flour;Farine;#flour#;#flour#;Cereal;Céréales;Flour;Farine;2.403654841
+921;Akutaq;Akutaq;akutaq;akutaq;Dish;Plat;Akutaq;Akutaq;4.586584781
+923;Pita bread;Pain pita;#bread-pita#;#pain-pita#;Bakery;Boulangerie;Pita bread;Pain pita;2.483700414
+924;Focaccia;Focaccia;focaccia;focaccia;Bakery;Boulangerie;Focaccia;Focaccia;2.320860337
+925;Bagel;Bagel;bagel;bagel;Bakery;Boulangerie;Bagel;Bagel;3.830819588
+927;Piki bread;Pain piki;bread-piki;pain-piki;Bakery;Boulangerie;Piki bread;Pain piki;2.705329598
+928;French toast;Pain français;french toast;pain perdu;Bakery;Boulangerie;French toast;Pain français;3.966893458
+929;Oat bread;Pain d'avoine;#bread-oat#;#pain-avoine;Bakery;Boulangerie;Oat bread;Pain d'avoine;2.131164333
+930;Potato bread;Pain de pommes de terre;potato-bread;pain-pomme de terre;Bakery;Boulangerie;Potato bread;Pain de pommes de terre;1.3449272
+931;Cornbread;Pain de maïs;#corn-bread#;#maïs-pain#;Maize;Maïs;Cornbread;Pain de maïs;1.92139123
+932;Corn grits;Gruaux de maïs;corn-grit;maïs-grain;Maize;Maïs;Corn grits;Gruaux de maïs;1.682247931
+933;Multigrain bread;Pain multigrains;#bread-multigrain#;#pain-multigrain#;Bakery;Boulangerie;Multigrain bread;Pain multigrains;2.197733289
+934;Rice bread;Pain de riz;bread-rice;pain-riz;Bakery;Boulangerie;Rice bread;Pain de riz;3.455451268
+935;Pan dulce;Pan dulce;pan dulce;pan dulce;Bakery;Boulangerie;Pan dulce;Pan dulce;2.570724402
+936;Raisin bread;Pain aux raisins;#bread-raisin#;#pain-raisin#;Bakery;Boulangerie;Raisin bread;Pain aux raisins;3.235479094
+937;Wonton wrapper;Papier Wonton;wonton wrapper;emballage wonton;Bakery;Boulangerie;Wonton wrapper;Papier Wonton;3.357870934
+938;Trail mix;Mélange de fruits et légumes;trail mix;mélange de sentiers;Dish;Plat;Trail mix;Mélange de fruits et légumes;3.936979634
+939;Greenthread tea;Thé au fil vert;tea-greenthread;thé-fil de fer;Beverage;Boisson;Greenthread tea;Thé au fil vert;1.13700585
+941;Vegetable juice;Jus de légumes;vegetable juice;jus de légumes;Beverage;Boisson;Vegetable juice;Jus de légumes;1.223003436
+942;Horchata;Horchata;horchata;horchata;Beverage;Boisson;Horchata;Horchata;1.439801096
+943;Soft drink;Boisson gazeuse;soft drink;Boisson gazeuse;Beverage;Boisson;Soft drink;Boisson gazeuse;0.83578911
+944;Milkshake;Milkshake;milkshake;milkshake;Beverage;Boisson;Milkshake;Milkshake;0.783424117
+945;Chocolate mousse;Mousse au chocolat;chocolate-mousse;mousse au chocolat;Bakery;Boulangerie;Chocolate mousse;Mousse au chocolat;1.685162125
+947;Pupusa;Pupusa;pupusa;pupusa;Dish;Boulangerie;Pupusa;Pupusa;4.594787092
+948;Empanada;Empanada;empanada;empanada;Dish;Plat;Empanada;Empanada;5.738185982
+949;Arepa;Arepa;arepa;arepa;Dish;Plat;Arepa;Arepa;5.073492454
+950;Ascidians;Ascidies;ascidians;ascidies;Seafood;Fruits de mer;Ascidians;Ascidies;8.562573092
+951;Gefilte fish;Poisson Gefilte;gefilte;gefilte;Dish;Plat;Gefilte fish;Poisson Gefilte;5.584862619
+952;Yellow pond lily;Nénuphar jaune;yellow-pond lily;jaune-nénuphar;Plant;Plante;Yellow pond lily;Nénuphar jaune;2.100038442
+953;Fish burger;Burger de poisson;fish burger;burger de poisson;Dish;Plat;Fish burger;Burger de poisson;4.510271743
+955;Pot pie;Pâté en croûte;pot-pie;pot-tarte;Dish;Plat;Pot pie;Pâté en croûte;5.191103319
+956;Stuffing;Farce;stuffing;farce;Additive;Condiment;Stuffing;Farce;1.156500353
+958;Fudge;Caramel;fudge;fudge;Bakery;Boulangerie;Fudge;Caramel;1.426187009
+959;Candy bar;Barre chocolatée;candy bar;barre chocolatée;Bakery;Boulangerie;Candy bar;Barre chocolatée;1.539018744
+960;Condensed milk;Lait condensé;milk-condensed;lait condensé;Dairy;Produits laitiers;Condensed milk;Lait condensé;4.49285613
+961;Margarine;Margarine;margarine;margarine;Additive;Condiment;Margarine;Margarine;1.128422558
+963;Hummus;Houmous;hummus;houmous;Dish;Condiment;Hummus;Houmous;2.590197657
+964;Potato puffs;Feuilletés de pommes de terre;potato-puff;potato-puff;Dish;Plat;Potato puffs;Feuilletés de pommes de terre;3.728906675
+965;Potato gratin;Gratin de pommes de terre;potato-gratin;gratin de pommes de terre;Dish;Plat;Potato gratin;Gratin de pommes de terre;3.62315232
+967;Chinese bayberry;Laurier chinois;bayberry-chinese;bayberry-chinois;Fruit;Fruit;Chinese bayberry;Laurier chinois;1.366174263
+968;Green zucchini;Courgettes vertes;zucchini-green;courgette-verte;Vegetable;Légume;Green zucchini;Courgettes vertes;0.864129724
+969;Zucchini;Courgettes;zucchini;courgette;Vegetable;Légume;Zucchini;Courgettes;1.171358959
+970;Saskatoon berry;Amélanche;berry-saskatoon;baies-askatoon;Fruit;Fruit;Saskatoon berry;Amélanche;1.929220724
+971;Nanking cherry;Cerise de Nankin;cherry-nanking;cerise-nankin;Fruit;Fruit;Nanking cherry;Cerise de Nankin;0.635046326
+972;Japanese pumpkin;Courge japonaise;pumpkin-japanese;citrouille-japonaise;Fruit;Fruit;Japanese pumpkin;Courge japonaise;0.687458077
+977;Guinea hen;Poule de Guinée;guinea-hen;pintade-poule;Meat;Viande;Guinea hen;Poule de Guinée;4.661607114
+978;Cucurbita;Cucurbita;cucurbita;cucurbita;Vegetable;Légume;Cucurbita;Cucurbita;1.098644285
+979;Anise Oil;Huile d'anis;#anise-oil#;#huile d'anis;Fruit;Fruit;Anise Oil;Huile d'anis;1.792159228
+980;Apple Juice;Jus de pomme;apple-juice;jus de pomme;Fruit;Fruit;Apple Juice;Jus de pomme;1.117532999
+981;Coconut Milk;Lait de coco;coconut-milk;lait de coco;Beverage;Boisson;Coconut Milk;Lait de coco;1.146345236
+982;Coconut Oil;Huile de noix de coco;coconut-oil;huile de noix de coco;Fruit;Fruit;Coconut Oil;Huile de noix de coco;1.853695212
+983;Hops Beer;Bière au houblon;beer-hops;bière-houblon;Beverage Alcoholic;Boisson alcoolisée;Hops Beer;Bière au houblon;14.45680021
+984;Lemon Juice;Jus de citron;lemon juice;jus de citron;Beverage;Boisson;Lemon Juice;Jus de citron;0.568708803
+985;Brown Rice;Riz brun;rice-brown;riz brun;Cereal;Céréales;Brown Rice;Riz brun;3.614126069
+986;Tomato Juice;Jus de tomate;#tomato-juice#;#tomato-juice#;Beverage;Boisson;Tomato Juice;Jus de tomate;1.309241698
+987;Tomato Paste;Pâte de tomate;#tomato-paste#;#pâte de tomate#;Vegetable;Légume;Tomato Paste;Pâte de tomate;1.627997746
+988;Tomato Puree;Purée de tomate;#tomato-puree#;#Purée de tomate;Vegetable;Légume;Tomato Puree;Purée de tomate;1.668042344
+989;Coriander Seed;Graines de coriandre;coriander-seed;graines de coriandre;Vegetable;Légume;Coriander Seed;Graines de coriandre;1.383832652
+990;Lard;Lard;pork-fat, lard;graisse de porc, saindoux;Meat;Viande;Lard;Lard;4.897654247
+991;Cured Ham;Jambon cru;#ham-cured#;#ham-cured#;Meat;Viande;Cured Ham;Jambon cru;7.112387374
+992;Cayenne;Cayenne;cayenne, chile powder, red chile, habanero, harissa, green chile, green chili, green chilli, green chily, red chily, red chili, red chilli;cayenne, poudre de chile, chile rouge, habanero, harissa, chile vert, chile vert, chile vert, chile vert, chile vert, chile rouge, chile rouge, chile rouge;Spice;Épice;Cayenne;Cayenne;1.452745708
+993;Yeast;Levure;yeast;levure;Fungus;Champignon;Yeast;Levure;2.17273315
+994;Tequila;Tequila;tequila;tequila;Beverage Alcoholic;Boisson Alcoolisée;Tequila;Tequila;14.14497817
+995;Sauerkraut;Choucroute;sauerkraut;choucroute;Vegetable;Légume;Sauerkraut;Choucroute;0.709805903
+996;Baking Powder;Poudre à lever;baking powder, baking soda;poudre à pâte, bicarbonate de soude;Additive;Condiment;Baking Powder;Poudre à lever;0.719954821
+997;Monosodium Glutamate;Glutamate monosodique;monosodium glutamate;glutamate monosodique;Additive;Condiment;Monosodium Glutamate;Glutamate monosodique;1.031497094
+998;Citric Acid;Acide citrique;citric acid;acide citrique;Additive;Condiment;Citric Acid;Acide citrique;0.927176293
+999;Cooking Spray;Spray de cuisson;cooking spray;spray de cuisson;Additive;Condiment;Cooking Spray;Spray de cuisson;1.472658659
+1000;Gelatin;Gélatine;gelatin;gélatine;Additive;Condiment;Gelatin;Gélatine;1.33308386
+1001;Food Coloring;Colorant alimentaire;food coloring;colorant alimentaire;Additive;Condiment;Food Coloring;Colorant alimentaire;1.003481188
+1002;Liquid Smoke;Fumée liquide;liquid smoke;fumée liquide;Additive;Condiment;Liquid Smoke;Fumée liquide;0.500573913
+2000;Garam Masala;Garam Masala;garam masala;garam masala;Spice;Épice;black pepper, mace, cinnamon, clove, cardamom, nutmeg;poivre noir, macis, cannelle, clou de girofle, cardamome, noix de muscade;1.396563303
+2001;Ginger Garlic Paste;Gingembre Pâte d'ail;ginger garlic paste;gingembre pâte d'ail;Spice;Épice;ginger, garlic;gingembre, ail;0.544559551
+2002;Coriander Cumin Seed Powder;Poudre de graines de coriandre et de cumin;coriander cumin seed powder;poudre de graines de coriandre et de cumin;Spice;Épice;coriander, cumin;coriandre, cumin;0.544070528
+2003;Chaat Masala;Chaat Masala;chaat masala;chaat masala;Spice;Épice;asafoetida, mango, black salt, cayenne, garlic, ginger, sesame seed, black mustard seed oil, turmeric, coriander, bay laurel, anise, fennel;asafoetida, mangue, sel noir, cayenne, ail, gingembre, graines de sésame, huile de graines de moutarde noire, curcuma, coriandre, laurier, anis, fenouil;0.969268854
+2004;Sambar Powder;Poudre de Sambar;sambar powder;poudre de sambar;Spice;Épice;pigeon pea, coriander, chickpea, cumin, black pepper, cayenne, ginger, fenugreek, turmeric;pois d'Angole, coriandre, pois chiche, cumin, poivre noir, cayenne, gingembre, fenugrec, curcuma;0.576782926
+2005;Chole Masala;Chole Masala;chole masala;chole masala;Spice;Épice;cayenne, garlic, ginger, roasted sesame seed, black mustard seed oil, turmeric, coriander bay laurel, anise, fennel;cayenne, ail, gingembre, graines de sésame grillées, huile de graines de moutarde noire, curcuma, laurier coriandre, anis, fenouil;1.048817589
+2006;Rasam Powder;Poudre de Rasam;rasam powder;poudre de rasam;Spice;Épice;cayenne, pigeon pea, cumin, coriander, black pepper, curry leaf;cayenne, pois d'Angole, cumin, coriandre, poivre noir, feuille de curry;1.276685536
+2007;Tandoori Masala;Tandoori Masala;tandoori masala;masala tandoori;Spice;Épice;garlic, ginger, clove, nutmeg, mace, cumin, coriander, fenugreek, cinnamon, cardamom, black pepper;ail, gingembre, clou de girofle, noix de muscade, macis, cumin, coriandre, fenugrec, cannelle, cardamome, poivre noir;1.114854408
+2008;Curry Powder;Poudre de curry;curry powder;poudre de curry;Spice;Épice;cardamom, cayenne, cinnamon, clove, coriander, cumin, fennel, fenugreek, mace, nutmeg, black pepper, poppy seed, sesame seed, saffron, tamarind, turmeric;cardamome, cayenne, cannelle, clou de girofle, coriandre, cumin, fenouil, fenugrec, macis, noix de muscade, poivre noir, graines de pavot, graines de sésame, safran, tamarin, curcuma;1.244402461
+2009;Panch Pharon Seed;Graines de Pharon Panch;panch pharon seed;graine de pharon panch;Spice;Épice;fenugreek, nigella seed, cumin, black mustard seed oil;fenugrec, graine de nigelle, cumin, huile de graine de moutarde noire;1.028775962
+2010;Chicken Masala Powder;Poudre de poulet Masala;chicken masala powder;poudre de poulet masala;Spice;Épice;bay laurel, ginger, cinnamon, clove, black pepper, coriander, fennel, cayenne;baie de laurier, gingembre, cannelle, clou de girofle, poivre noir, coriandre, fenouil, cayenne;0.561823535
+2011;Goda Masala;Goda Masala;goda masala;goda masala;Spice;Épice;cardamom, cinnamon, clove, bay laurel, sesame seed, coriander, coconut, cassia, white pepper, black pepper;cardamome, cannelle, clou de girofle, baies de laurier, graines de sésame, coriandre, noix de coco, casse, poivre blanc, poivre noir;1.477872242
+2012;Jal Jeera Powder;Poudre de Jal Jeera;jal jeera powder;poudre de jal jeera;Spice;Épice;black salt, mango, cumin, citric acid, mint, black pepper, ginger, asafoetida;sel noir, mangue, cumin, acide citrique, menthe, poivre noir, gingembre, asafoetida;1.473074105
+2013;Ginger Garlic Coriander Leaves;Gingembre, ail, feuilles de coriandre;ginger garlic coriander leaf;gingembre ail feuille de coriandre;Spice;Épice;ginger, garlic, coriander;gingembre, ail, coriandre;1.254289637
+2014;Pulao Masala;Pulao Masala;pulao masala;pulao masala;Spice;Épice;black pepper, white pepper, clove, cumin, cinnamon, cardamom, coriander;poivre noir, poivre blanc, clou de girofle, cumin, cannelle, cardamome, coriandre;1.372369834
+2015;Dabeli Masala;Dabeli Masala;dabeli masala;dabeli masala;Spice;Épice;cayenne, coriander, cinnamon, clove, cumin;cayenne, coriandre, cannelle, clou de girofle, cumin;1.280443145
+2016;Cake Mix;Mélange de gâteaux;cake mix;mélange à gâteau;Dish;Plat;flour, wheat, sugar, baking powder, salt;farine, blé, sucre, levure chimique, sel;5.457297617
+2017;Half Half;Moitié-moitié;half half;moitié moitié;Dairy;Produits laitiers;milk, cream;lait, crème;2.164763944
+2018;Ale;Ale;ale;ale;Beverage Alcoholic;Boisson Alcoolisée;beer, hops-beer;bière, bière de houblon;9.402942983
+2019;Vermicelli;Vermicelles;vermicelli;vermicelle;Dish;Plat;flour, wheat, water, salt;farine, blé, eau, sel;5.985794553
+2020;Self Rising Flour;Farine auto levante;self rising flour;farine autoportante;Cereal;Céréales;flour, salt, baking-powder;farine, sel, levure chimique;3.463609943
+2021;Mayonnaise;Mayonnaise;mayonnaise;mayonnaise;Dish;Condiment;oil, egg, lemon-juice;huile, oeuf, jus de citron;2.853827995
+2022;Salt-Pepper;Sel et poivre;salt-pepper;sel et poivre;Additive;Condiment;salt, pepper;sel, poivre;0.56433769
+2023;Croissant;Croissant;croissant;croissant;Dish;Boulangerie;flour, wheat, butter, yeast;farine, blé, beurre, levure;3.529847832
+2024;Puff Pastry;Pâte feuilletée;puff pastry;pâte feuilletée;Dish;Plat;flour, wheat, butter;farine, blé, beurre;3.859394563
+2025;Green Chutney;Chutney vert;green chutney;chutney vert;Spice;Épice;corriander, cumin, lemon-juice, cayenne;corriandre, cumin, jus de citron, cayenne;1.049045407
+2026;Cajun Seasoning;Assaisonnement Cajun;cajun seasoning;assaisonnement cajun;Spice;Épice;salt, cayenne, garlic, oregano, paprika, thyme, pepper, onion;sel, cayenne, ail, origan, paprika, thym, poivre, oignon;1.192146073
+2027;Vegetable Broth;Bouillon de légumes;vegetable broth;bouillon de légumes;Dish;Condiment;onion, carrot, celery, shallot, sage, mushroom;oignon, carotte, céleri, échalote, sauge, champignon;3.465304115
+2028;Tandoori Paste;Pâte Tandoori;tandoori paste;pâte tandoori;Dish;Plat;garlic, ginger, clove, nutmeg, mace, cumin, coriander, fenugreek, cinnamon, cardamom, black pepper, yogurt, lime-juice;ail, gingembre, clou de girofle, noix de muscade, macis, cumin, coriandre, fenugrec, cannelle, cardamome, poivre noir, yaourt, jus de citron vert;3.959818742
+2029;Mixed Vegetables;Légumes mélangés;mixed vegetables;mélange de légumes;Vegetable;Légume;carrot, cauliflower, corn, pea, capsicum;carotte, chou-fleur, maïs, pois, poivron;0.863503012
+2030;Salad Creme;Crème de salade;salad creme;crème de salade;Dish;Plat;oil, egg, vinegar, water;huile, œuf, vinaigre, eau;3.450008397
+2031;Worcestershite Sauce;Sauce Worcestershite;worcestershire sauce;sauce worcestershire;Dish;Plat;cider-vinegar, soy-sauce, water, sugar, ginger, mustard, onion, garlic, cinnamon, pepper-black;vinaigre de cidre, sauce de soja, eau, sucre, gingembre, moutarde, oignon, ail, cannelle, poivre noir.;3.283108253
+2032;Coleslaw;Salade de chou;coleslaw;salade de chou;Dish;Plat;cabbage, vinegar, oil, salt, mayonnaise, egg, water;chou, vinaigre, huile, sel, mayonnaise, oeuf, eau;3.632139321
+2033;Vegetable Stock;Bouillon de légumes;vegetable stock;bouillon de légumes;Vegetable;Légume;onion, carrot, celery, thyme, bayleaf, pepper, tomato, garlic;oignon, carotte, céleri, thym, laurier, poivre, tomate, ail.;1.972612261
+2034;Mascarpone;Mascarpone;mascarpone;mascarpone;Dish;Produits laitiers;cheese-cream, lemon-juice, vinegar;crème de fromage, jus de citron, vinaigre;3.672709199
+2035;Fettuccine;Fettuccine;fettuccine;fettuccine;Dish;Plat;flour, wheat, eggs;farine, blé, oeufs;2.939512829
+2036;Italian Seasoning;Assaisonnement italien;italian style seasoning, italian herb seasoning, italian seasoning;assaisonnement à l'italienne, assaisonnement aux herbes italiennes, assaisonnement à l'italienne;Spice;Épice;basil, oregano, rosemary, thyme;basilic, origan, romarin, thym;0.598031819
+2037;Ketchup;Ketchup;ketchup;ketchup;Dish;Plat;ketchup, tomato, sugar, vinegar, salt, onion, allspice, coriander, clove, cumin, garlic, mustard;ketchup, tomate, sucre, vinaigre, sel, oignon, quatre-épices, coriandre, clou de girofle, cumin, ail, moutarde;3.986327683
+2038;Spinach Fettuccine;Fettuccine aux épinards;spinach fettuccine;fettuccine aux épinards;Dish;Plat;spinach, flour, wheat, eggs;épinards, farine, blé, œufs;4.956962274
+2039;Hoisin Sauce;Sauce Hoisin;hoisin sauce;sauce hoisin;Dish;Plat;soybean, cayenne, garlic;soja, cayenne, ail;4.838793448
+2040;Barbeque Sauce;Sauce barbecue;barbeque sauce;sauce barbecue;Dish;Plat;vinegar, tomato, tomato-paste, tomato-puree, mayonnaise, liquid-smoke, onion, mustard, pepper, sugar;vinaigre, tomate, pâte de tomate, purée de tomate, mayonnaise, fumée liquide, oignon, moutarde, poivre, sucre;4.641492785
+2041;Sponge Cake;Gâteau éponge;sponge cake;gâteau éponge;Dish;Plat;flour, wheat, butter, sugar, egg, baking-powder;farine, blé, beurre, sucre, œuf, poudre à lever;3.929661165
+2042;Baking Mix;Mélange à pâtisserie;baking mix;mélange à pâtisserie;Dish;Plat;flour, wheat, baking-powder, yeast, sugar, salt;farine, blé, levure, levure chimique, sucre, sel;4.276738615
+2043;Hot Sauce;Sauce piquante;hot sauce;sauce piquante;Dish;Plat;cayenne, salt, vinegar;cayenne, sel, vinaigre;3.480210134
+2044;Dried Mixed Fruit;Mélange de fruits séchés;dried mixed fruit;mélange de fruits secs;Fruit;Fruit;raisin, apricot, date, currant, fig;raisin sec, abricot, datte, groseille, figue;1.056832963
+2045;Candied Mixed Fruit;Mélange de fruits confits;candied mixed fruit;mélange de fruits confits;Fruit;Fruit;raisin, apricot, date, currant, fig, sugar;raisin sec, abricot, datte, groseille, figue, sucre;0.943915225
+2046;Gulkand;Gulkand;gulkand;gulkand;Dish;Plat;rose, sugar;rose, sucre;3.521850958
+2047;Pancetta;Pancetta;pancetta;pancetta;Dish;Plat;pork, pepper, salt;porc, poivre, sel;4.727954809
+2048;Phyllo;Phyllo;phyllo;phyllo;Cereal;Céréales;phyllo, flour, wheat;phyllo, farine, blé;2.340553173
+2049;Pie Crust;Croûte à tarte;pie-crust;pâte à tarte;Cereal;Céréales;pie-crust, flour, wheat;pâte à tarte, farine, blé;2.621938625
+2050;Prosciutto;Prosciutto;prosciutto;prosciutto;Meat;Viande;ham, ham-cured;jambon, jambon cru;10.42041054
+2051;Creole Seasoning;Assaisonnement créole;creole seasoning;assaisonnement créole;Spice;Épice;onion, pepper, garlic, pepper-white, oregano, cayenne, basil, capsicum, thyme, salt;oignon, poivron, ail, poivre blanc, origan, cayenne, basilic, poivron, thym, sel;0.880458779
+2052;Chinese Five Spice Powder;Poudre de cinq épices chinoises;chinese five spice;cinq épices chinoises;Spice;Épice;cinnamon, anise-star, fennel, pepper, clove;cannelle, anis étoilé, fenouil, poivre, clou de girofle;1.00209984
+2053;Old Bay Seasoning;Assaisonnement Old Bay;old-bay seasoning;assaisonnement old bay;Spice;Épice;bay-laurel, celery, salt, mustard, pepper, ginger, capsicum, pepper-white, nutmeg, clove, allspice, cayenne, mace, cardamom, cinnamon;baie de laurier, céleri, sel, moutarde, poivre, gingembre, poivron, poivre blanc, noix de muscade, clou de girofle, piment de la Jamaïque, cayenne, macis, cardamome, cannelle...;1.337526908
+2054;Adobo Sauce;Sauce Adobo;adobo sauce;sauce adobo;Dish;Condiment;cayenne, garlic, cider-vinegar, salt, sugar, cumin;cayenne, ail, vinaigre de cidre, sel, sucre, cumin;4.379704704
+2055;Cracker Crumb;Miettes de biscuits;cracker crumb, graham cracker;chapelure de biscuit, biscuit graham;Dish;Plat;wheat, sugar, honey;blé, sucre, miel;3.542482946
+2056;Flour;Farine;flour, atta;farine, atta;Cereal;Céréales;flour, wheat;farine, blé;2.774358293
+2057;Ranch Dressing;Vinaigrette Ranch;dressing-ranch;vinaigrette-ranch;Spice;Épice;mayonnaise, garlic, cream, onion, chive, salt, parsley, pepper, dill;mayonnaise, ail, crème, oignon, ciboulette, sel, persil, poivre, aneth;1.027725859
+2058;Poultry Seasoning;Assaisonnement pour volaille;poultry seasoning;assaisonnement pour volaille;Spice;Épice;sage, thyme, marjoram, rosemary, nutmeg, pepper;sauge, thym, marjolaine, romarin, noix de muscade, poivre;1.414101234
+2059;Tahini;Tahini;tahini;tahini;Dish;Plat;sesame, olive;sésame, olive;3.714028149
+2060;Herbe de Provence;Herbe de Provence;herbe de provence;herbe de provence;Spice;Épice;rosemary, lavendar, fennel, parsley, savory-winter, oregano, thyme, tarragon, basil, bay-laurel, marjoram;romarin, lavande, fenouil, persil, sarriette d'hiver, origan, thym, estragon, basilic, laurier, marjolaine;0.95459055
+2061;Tart Shell;Coquille de tarte;tart shell;fond de tarte;Dish;Plat;flour, wheat, sugar, salt, butter, shortening, water;farine, blé, sucre, sel, beurre, shortening, eau;5.957648763
+2062;Adobo;Adobo;adobo;adobo;Dish;Plat;cayenne, garlic, cider-vinegar, salt, sugar, cumin, chicken, adobo;cayenne, ail, vinaigre de cidre, sel, sucre, cumin, poulet, adobo;2.652285067
+2063;Tomato Puree;Purée de tomates;tomato-puree;purée de tomates;Vegetable;Légume;tomato, tomato-puree;tomate, purée de tomate;1.929228591
+2064;Tomato Paste;Pâte de tomate;tomato-paste;purée de tomates;Vegetable;Légume;tomato, tomato-paste;tomate, pâte de tomate;1.482300283
+2065;Bear;Ours;bear;ours;Meat;Viande;bear-black, bear-brown, bear-polar;ours-noir, ours-brun, ours-polaire;6.343562421
+2066;Whale;Baleine;whale;baleine;Fish;Poisson;whale-beluga, whale-bowhead;baleine-béluga, baleine-bowhead;10.66759723
+2067;Whitefish;Corégone;whitefish;corégone;Fish;Poisson;whitefish-broad, whitefish;corégone - large, corégone;6.62538777
+2068;Seal;Phoque;seal;phoque;Fish;Poisson;seal, seal-ringed, seal-spotted, seal-bearded;phoque, phoque annelé, phoque tacheté, phoque barbu;11.24850064
+2069;Tuna;Thon;tuna;thon;Fish;Poisson;tuna-albacore, tuna-bluefin, tuna-yellowfin, tuna;thon - germon, thon rouge, thon à nageoires jaunes, thon;9.656241282
+2070;Croaker;Croaçon;croaker;crochet;Fish;Poisson;croaker-atlantic, croaker-spot;croaker-atlantique, croaker tacheté;6.793609302
+2071;Mackerel;Maquereau;mackerel;maquereau;Fish;Poisson;mackerel-atlantic, mackerel-pacific, mackerel-king, mackerel-spanish;maquereau-atlantique, maquereau-pacifique, maquereau-roi, maquereau-espagnol;15.36058775
+2072;Pollock;Goberge;pollock;goberge;Fish;Poisson;pollock-atlantic, pollock-alaska, pollock;goberge-atlantique, goberge-alaska, goberge;12.36938895
+2073;Anchovy;Anchois;anchovy;anchois;Fish;Poisson;anchovy-european, anchovy;anchois-européen, anchois;10.83547044
+2074;Perch;Perche;perch;perche;Fish;Poisson;perch-pacific, perch-pike;perche-pacifique, perche-pike;13.21042045
+2075;Frybread;Frybread;fry-bread;alevins;Dish;Plat;frybread, flour, wheat;pain frit, farine, blé;3.777430959
+2076;Sturgeon;Esturgeon;sturgeon;esturgeon;Fish;Poisson;sturgeon-greater, sturgeon;esturgeon-gros, esturgeon;7.953061031
+2077;Hibiscus Tea;Thé à l'hibiscus;tea-hibiscus;thé-hibiscus;Dish;Plat;tea-hibiscus, water, sugar;thé-hibiscus, eau, sucre;5.141327445
+2078;Deer;Cerf;deer, elk;cerf, élan;Meat;Viande;mule deer, deer, elk, meat;cerf muletier, cerf, élan, viande;12.91351918
+2079;Octopus;Pieuvre;octopus;poulpe;Seafood;Fruits de mer;octopus, octopus-pacific;poulpe, poulpe-pacifique;10.50085242
+2080;Oat Bread;Pain d'avoine;bread-oat;pain-avoine;Bakery;Boulangerie;bread-oat, oat, bread;pain-avoine, avoine, pain;1.170761903
+2081;Pita Bread;Pain de pita;bread-pita;pain-pita;Bakery;Boulangerie;bread-pita, bread;pain-pita, pain;3.826487031
+2082;Raisin Bread;Pain aux raisins;bread-raisin;pain-raisin;Bakery;Boulangerie;bread-raisin, bread, raisin;pain-raisin, pain, raisin sec;3.550806964
+2083;Multigrain Bread;Pain multigrains;bread-multigrain;pain-multigrain;Bakery;Boulangerie;bread-multigrain, flax-seed, bread, oat;pain-multigrains, graines de lin, pain, avoine;2.100913227
+2084;Cornbread;Pain de maïs;corn-bread;pain de maïs;Bakery;Boulangerie;cornbread, corn, bread;pain de maïs, maïs, pain;3.145044205
+2085;Pout;Pout;pout;pout;Fish;Poisson;pout-ocean, pout-norway;pout-océan, pout-norvège;6.848176036
+2086;Herring;Hareng;herring;hareng;Fish;Poisson;herring-pacific, herring-atlantic;hareng-pacifique, hareng-atlantique;17.75028296
+2087;Smelt;Éperlan;smelt;éperlan;Fish;Poisson;smelt-rainbow, smelt;éperlan - arc-en-ciel, éperlan;8.402773823
+2088;Crab;Crabe;crab, crabmeat;crabe, chair de crabe;Seafood;Fruits de mer;crab, red king crab;crabe, crabe royal rouge;13.92058098
+2089;Cooking Oil;Huile de cuisson;cooking oil, vegetable oil;huile de cuisson, huile végétale;Additive;Condiment;cooking oil, sunflower;huile de cuisson, tournesol;1.284574981
+2090;Rice Cake;Gâteau de riz;rice-cake;gâteau de riz;Bakery;Boulangerie;rice-cake, rice, flour, wheat, ???vegetable-oil???;gâteau de riz, riz, farine, blé, huile végétale, etc.;2.994105506
+2091;Trout;Truite;trout;truite;Fish;Poisson;trout-sea, trout-lake, trout-rainbow;truite de mer, truite de lac, truite de l'arc-en-ciel;8.236144665
+2092;Lobster;Homard;lobster;homard;Seafood;Fruits de mer;lobster, lobster-spiny;homard, homard épineux;4.519178571
+2093;Halibut;Flétan;halibut;flétan;Fish;Poisson;halibut-atlantic, halibut-greenland;flétan de l'Atlantique, flétan du Groenland;10.01426201
+2094;Whiting;Merlan;whiting;merlan;Fish;Poisson;whiting, whiting-blue;merlan, merlan bleu;15.60254344
+2095;Buffalo;Buffle;buffalo;bison;Meat;Viande;buffalo, meat;bison, viande;8.311341855
+2096;Catfish;Poisson-chat;catfish;poisson-chat;Fish;Poisson;catfish-channel, catfish;poisson-chat - canal, poisson-chat;10.70031845
+2097;Salmon;Saumon;salmon, arctic char, cisco, salmonidae;saumon, omble chevalier, cisco, salmonidés;Fish;Poisson;salmon-coho, salmon-atlantic, salmon-chinook, salmon-chun, salmon-pink, salmon-sockeye, salmon, salmonidae, cisco;saumon-coho, saumon-atlantique, saumon-chinook, saumon-chun, saumon-rose, saumon-sockeye, saumon, salmonidae, cisco;11.68703289
+2098;Rabbit;Lapin;rabbit;lapin;Meat;Viande;rabbit, rabbit-european, meat;lapin, lapin-européen, viande;14.64348478
+2099;Haddock;Haddock;haddock;églefin;Fish;Poisson;haddock, haddock-norway;haddock, haddock-norvège;11.53359527
+2100;Persimmon;Persimmon;persimmon;kaki;Fruit;Fruit;persimmon,persimmon-common;kaki, kaki commun;1.428279329
+2101;Apple Sauce;Sauce aux pommes;apple-sauce;compote de pommes;Dish;Plat;apple sauce, apple, lemon juice, sugar;compote de pommes, pomme, jus de citron, sucre;4.602519946
+2102;Cider Vinegar;Vinaigre de cidre;soy cream, soya cream;crème de soja, crème de soja;Dish;Plat;soy cream, soy milk, cooking oil, agave, cider vinegar;crème de soja, lait de soja, huile de cuisson, agave, vinaigre de cidre;4.64648105
